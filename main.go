@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
+	"io"
 	"io/ioutil"
 	"log"
 	"net/http"
@@ -43,8 +44,21 @@ func fetchData(apiURL string, page int, rateLimit time.Duration, ch chan []inter
 
 		resp, err := client.Do(response)
 
-		if resp.StatusCode != 200 {
-			log.Fatalf("Non-OK HTTP status: %d", resp.StatusCode)
+		//if resp.StatusCode != 200 {
+		//	log.Println("Error is this ", err)
+		//	log.Println("Response is ", resp.Request)
+		//	log.Fatalf("Non-OK HTTP status: %d and body is %s", resp.StatusCode, resp.Body)
+		//}
+
+		defer resp.Body.Close() // Ensure the response body is closed
+
+		if resp.StatusCode != http.StatusOK {
+			bodyBytes, err := io.ReadAll(resp.Body)
+			if err != nil {
+				log.Fatalf("Error reading body: %v", err)
+			}
+			bodyString := string(bodyBytes)
+			log.Printf("Non-OK HTTP status: %d body is %s and apiurl is %s ", resp.StatusCode, bodyString, apiURL)
 		}
 
 		defer resp.Body.Close()
@@ -202,26 +216,27 @@ func getUrl() []Urls {
 			StartPage:  0,
 			OutputFile: "courses.json",
 		},
-		{
-			Url:        "https://portal.miva.university/enrol/rest/debtoraccount",
-			StartPage:  0,
-			OutputFile: "debtorAccounts.json",
-		},
-		{
-			Url:        "https://portal.miva.university/enrol/rest/debtor",
-			StartPage:  0,
-			OutputFile: "debtors.json",
-		},
+		//{
+		//	Url:        "https://portal.miva.university/enrol/rest/debtoraccount",
+		//	StartPage:  0,
+		//	OutputFile: "debtorAccounts.json",
+		//},
+		// Debtor is having status no content
+		//{
+		//	Url:        "https://portal.miva.university/enrol/rest/debtor",
+		//	StartPage:  0,
+		//	OutputFile: "debtors.json",
+		//},
 		{
 			Url:        "https://portal.miva.university/enrol/rest/document",
 			StartPage:  0,
 			OutputFile: "documents.json",
 		},
-		{
-			Url:        "https://portal.miva.university/enrol/rest/employee",
-			StartPage:  0,
-			OutputFile: "employees.json",
-		},
+		//{
+		//	Url:        "https://portal.miva.university/enrol/rest/employee",
+		//	StartPage:  0,
+		//	OutputFile: "employees.json",
+		//},
 		{
 			Url:        "https://portal.miva.university/enrol/rest/employmentrecord",
 			StartPage:  0,
@@ -267,11 +282,11 @@ func getUrl() []Urls {
 			StartPage:  0,
 			OutputFile: "invoices.json",
 		},
-		{
-			Url:        "https://portal.miva.university/enrol/rest/lead",
-			StartPage:  0,
-			OutputFile: "leads.json",
-		},
+		//{
+		//	Url:        "https://portal.miva.university/enrol/rest/lead",
+		//	StartPage:  0,
+		//	OutputFile: "leads.json",
+		//},
 		{
 			Url:        "https://portal.miva.university/enrol/rest/order",
 			StartPage:  0,
@@ -282,11 +297,11 @@ func getUrl() []Urls {
 			StartPage:  0,
 			OutputFile: "organizations.json",
 		},
-		{
-			Url:        "https://portal.miva.university/enrol/rest/person/affiliation",
-			StartPage:  0,
-			OutputFile: "personAffiliations.json",
-		},
+		//{
+		//	Url:        "https://portal.miva.university/enrol/rest/person/affiliation",
+		//	StartPage:  0,
+		//	OutputFile: "personAffiliations.json",
+		//},
 		{
 			Url:        "https://portal.miva.university/enrol/rest/productFee",
 			StartPage:  0,
@@ -317,15 +332,16 @@ func getUrl() []Urls {
 			StartPage:  0,
 			OutputFile: "receipts.json",
 		},
-		{
-			Url:        "https://portal.miva.university/enrol/rest/referral",
-			StartPage:  0,
-			OutputFile: "referrals.json",
-		}, {
-			Url:        "https://portal.miva.university/enrol/rest/enrolment/registration",
-			StartPage:  0,
-			OutputFile: "enrolmentRegistration.json",
-		},
+		//{
+		//	Url:        "https://portal.miva.university/enrol/rest/referral",
+		//	StartPage:  0,
+		//	OutputFile: "referrals.json",
+		//},
+		//{
+		//	Url:        "https://portal.miva.university/enrol/rest/enrolment/registration",
+		//	StartPage:  0,
+		//	OutputFile: "enrolmentRegistration.json",
+		//},
 		{
 			Url:        "https://portal.miva.university/enrol/rest/report",
 			StartPage:  0,
@@ -361,11 +377,11 @@ func getUrl() []Urls {
 			StartPage:  0,
 			OutputFile: "timeTables.json",
 		},
-		{
-			Url:        "https://portal.miva.university/enrol/rest/type",
-			StartPage:  0,
-			OutputFile: "types.json",
-		},
+		//{
+		//	Url:        "https://portal.miva.university/enrol/rest/type",
+		//	StartPage:  0,
+		//	OutputFile: "types.json",
+		//},
 		{
 			Url:        "https://portal.miva.university/enrol/rest/voucher",
 			StartPage:  0,
@@ -391,10 +407,10 @@ func getUrl() []Urls {
 			StartPage:  0,
 			OutputFile: "role.json",
 		},
-		{
-			Url:        "https://portal.miva.university/enrol/rest/statistics/ids",
-			StartPage:  0,
-			OutputFile: "statistics.json",
-		},
+		//{
+		//	Url:        "https://portal.miva.university/enrol/rest/statistics/ids",
+		//	StartPage:  0,
+		//	OutputFile: "statistics.json",
+		//},
 	}
 }
