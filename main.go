@@ -18,15 +18,30 @@ type APIResponse struct {
 	Page       int           `json:"page"`       // Current page
 }
 
-// FetchData from API (Handles pagination and rate limiting)
-func fetchData(apiURL string, page int, rateLimit time.Duration, ch chan []interface{}) {
-	for {
-		urlWithParams := fmt.Sprintf("%s?page=%d", apiURL, page)
-		resp, err := http.Get(urlWithParams)
+type Urls struct {
+	Url        string
+	StartPage  int
+	OutputFile string
+}
 
+// FetchData from API (Handles pagination and rate limiting)
+func fetchData(apiURL string, page int, rateLimit time.Duration, ch chan []interface{}, cookie1 string, cookie2 string) {
+	for {
+		urlWithParams := fmt.Sprintf("%s?start=%d&max=1000", apiURL, page)
+		response, err := http.NewRequest("GET", urlWithParams, nil)
+		//resp, err := http.Get(urlWithParams)
 		if err != nil {
 			log.Fatalf("Error fetching data: %v", err)
 		}
+		cookieOne := &http.Cookie{Name: "JSESSIONID", Value: cookie1}
+		cookieTwo := &http.Cookie{Name: "cas-session", Value: cookie2}
+
+		response.AddCookie(cookieOne)
+		response.AddCookie(cookieTwo)
+
+		client := &http.Client{}
+
+		resp, err := client.Do(response)
 
 		if resp.StatusCode != 200 {
 			log.Fatalf("Non-OK HTTP status: %d", resp.StatusCode)
@@ -42,7 +57,7 @@ func fetchData(apiURL string, page int, rateLimit time.Duration, ch chan []inter
 
 		// Parse JSON response
 		var apiResponse APIResponse
-		err = json.Unmarshal(body, &apiResponse)
+		err = json.Unmarshal(body, &apiResponse.Data)
 		if err != nil {
 			log.Fatalf("Error unmarshaling JSON: %v", err)
 		}
@@ -93,25 +108,293 @@ func saveDataToFile(fileName string, ch chan []interface{}) {
 
 func main() {
 	// Parse CLI arguments
-	apiURL := flag.String("url", "", "API endpoint URL")
-	outputFile := flag.String("out", "output.json", "Output JSON file")
-	startPage := flag.Int("start", 1, "Starting page for scraping")
-	rateLimit := flag.Int("rate", 1, "Rate limit in seconds between requests")
+	//apiURL := flag.String("url", "", "API endpoint URL")
+	//outputFile := flag.String("out", "output.json", "Output JSON file")
+	//startPage := flag.Int("start", 1, "Starting page for scraping")
+	jsessionId := flag.String("JSESSIONID", "", "Jsession Id")
+	casSession := flag.String("cas-session", "", "cas-session Id")
+	rateLimit := flag.Int("rate", 5, "Rate limit in seconds between requests")
 
 	flag.Parse()
-
-	if *apiURL == "" {
-		log.Fatalf("API URL is required")
+	if jsessionId == nil {
+		log.Fatalf("JsessionId is required")
+	}
+	if casSession == nil {
+		log.Fatalf("Cas session is required")
 	}
 
-	// Channel for fetching data
-	dataChannel := make(chan []interface{}, 1)
+	for _, value := range getUrl() {
+		dataChannel := make(chan []interface{}, 1)
 
-	// Start fetching data
-	go fetchData(*apiURL, *startPage, time.Duration(*rateLimit)*time.Second, dataChannel)
+		go fetchData(value.Url, value.StartPage, time.Duration(*rateLimit)*time.Second, dataChannel, *jsessionId, *casSession)
 
+		saveDataToFile(value.OutputFile, dataChannel)
+	}
 	// Start saving data to file
-	saveDataToFile(*outputFile, dataChannel)
 
-	fmt.Println("Data scraping completed and saved to", *outputFile)
+	fmt.Println("Data scraping completed and saved to")
+}
+
+func getUrl() []Urls {
+	return []Urls{
+		{
+			Url:        "https://portal.miva.university/enrol/rest/application",
+			StartPage:  0,
+			OutputFile: "applications.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/bundle",
+			StartPage:  0,
+			OutputFile: "bundles.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/agreement",
+			StartPage:  0,
+			OutputFile: "agreements.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/assessment",
+			StartPage:  0,
+			OutputFile: "assessments.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/bank_account",
+			StartPage:  0,
+			OutputFile: "bankAccounts.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/building",
+			StartPage:  0,
+			OutputFile: "buildings.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/enrolment/bundle",
+			StartPage:  0,
+			OutputFile: "enrollmentBundle.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/comment",
+			StartPage:  0,
+			OutputFile: "comment.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/contact",
+			StartPage:  0,
+			OutputFile: "contacts.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/enrolment/course",
+			StartPage:  0,
+			OutputFile: "courseEnrollments.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/courseOffering",
+			StartPage:  0,
+			OutputFile: "courseOfferings.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/course-result-template",
+			StartPage:  0,
+			OutputFile: "courseResultTemplates.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/course",
+			StartPage:  0,
+			OutputFile: "courses.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/debtoraccount",
+			StartPage:  0,
+			OutputFile: "debtorAccounts.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/debtor",
+			StartPage:  0,
+			OutputFile: "debtors.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/document",
+			StartPage:  0,
+			OutputFile: "documents.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/employee",
+			StartPage:  0,
+			OutputFile: "employees.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/employmentrecord",
+			StartPage:  0,
+			OutputFile: "employmentRecords.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/event",
+			StartPage:  0,
+			OutputFile: "events.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/financialAid",
+			StartPage:  0,
+			OutputFile: "financialAids.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/financialApplication",
+			StartPage:  0,
+			OutputFile: "financialApplications.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/grade-scale",
+			StartPage:  0,
+			OutputFile: "gradeScales.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/image",
+			StartPage:  0,
+			OutputFile: "images.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/institution",
+			StartPage:  0,
+			OutputFile: "institutions.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/intake",
+			StartPage:  0,
+			OutputFile: "intakes.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/invoice",
+			StartPage:  0,
+			OutputFile: "invoices.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/lead",
+			StartPage:  0,
+			OutputFile: "leads.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/order",
+			StartPage:  0,
+			OutputFile: "orders.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/org",
+			StartPage:  0,
+			OutputFile: "organizations.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/person/affiliation",
+			StartPage:  0,
+			OutputFile: "personAffiliations.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/productFee",
+			StartPage:  0,
+			OutputFile: "productFees.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/product",
+			StartPage:  0,
+			OutputFile: "products.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/enrolment/program-level",
+			StartPage:  0,
+			OutputFile: "programLevelEnrollments.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/program",
+			StartPage:  0,
+			OutputFile: "programs.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/prospect",
+			StartPage:  0,
+			OutputFile: "prospects.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/receipt",
+			StartPage:  0,
+			OutputFile: "receipts.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/referral",
+			StartPage:  0,
+			OutputFile: "referrals.json",
+		}, {
+			Url:        "https://portal.miva.university/enrol/rest/enrolment/registration",
+			StartPage:  0,
+			OutputFile: "enrolmentRegistration.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/report",
+			StartPage:  0,
+			OutputFile: "reports.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/schoolSubject",
+			StartPage:  0,
+			OutputFile: "schoolSubject.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/enrolment/short-course",
+			StartPage:  0,
+			OutputFile: "shortCourseEnrolments.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/state",
+			StartPage:  0,
+			OutputFile: "states.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/account",
+			StartPage:  0,
+			OutputFile: "studentAccounts.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/student",
+			StartPage:  0,
+			OutputFile: "students.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/timetable",
+			StartPage:  0,
+			OutputFile: "timeTables.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/type",
+			StartPage:  0,
+			OutputFile: "types.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/voucher",
+			StartPage:  0,
+			OutputFile: "vouchers.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/webhook",
+			StartPage:  0,
+			OutputFile: "webhooks.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/authorization",
+			StartPage:  0,
+			OutputFile: "users.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/population",
+			StartPage:  0,
+			OutputFile: "populations.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/authorization/role",
+			StartPage:  0,
+			OutputFile: "role.json",
+		},
+		{
+			Url:        "https://portal.miva.university/enrol/rest/statistics/ids",
+			StartPage:  0,
+			OutputFile: "statistics.json",
+		},
+	}
 }
