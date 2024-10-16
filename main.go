@@ -29,26 +29,24 @@ type Urls struct {
 func fetchData(apiURL string, page int, rateLimit time.Duration, ch chan []interface{}, cookie1 string, cookie2 string) {
 	for {
 		urlWithParams := fmt.Sprintf("%s?start=%d&max=1000", apiURL, page)
+
 		response, err := http.NewRequest("GET", urlWithParams, nil)
-		//resp, err := http.Get(urlWithParams)
+
 		if err != nil {
 			log.Fatalf("Error fetching data: %v", err)
 		}
+
 		cookieOne := &http.Cookie{Name: "JSESSIONID", Value: cookie1}
+
 		cookieTwo := &http.Cookie{Name: "cas-session", Value: cookie2}
 
 		response.AddCookie(cookieOne)
+
 		response.AddCookie(cookieTwo)
 
 		client := &http.Client{}
 
 		resp, err := client.Do(response)
-
-		//if resp.StatusCode != 200 {
-		//	log.Println("Error is this ", err)
-		//	log.Println("Response is ", resp.Request)
-		//	log.Fatalf("Non-OK HTTP status: %d and body is %s", resp.StatusCode, resp.Body)
-		//}
 
 		defer resp.Body.Close() // Ensure the response body is closed
 
@@ -122,9 +120,6 @@ func saveDataToFile(fileName string, ch chan []interface{}) {
 
 func main() {
 	// Parse CLI arguments
-	//apiURL := flag.String("url", "", "API endpoint URL")
-	//outputFile := flag.String("out", "output.json", "Output JSON file")
-	//startPage := flag.Int("start", 1, "Starting page for scraping")
 	jsessionId := flag.String("JSESSIONID", "", "Jsession Id")
 	casSession := flag.String("cas-session", "", "cas-session Id")
 	rateLimit := flag.Int("rate", 5, "Rate limit in seconds between requests")
@@ -145,7 +140,6 @@ func main() {
 		saveDataToFile(value.OutputFile, dataChannel)
 	}
 	// Start saving data to file
-
 	fmt.Println("Data scraping completed and saved to")
 }
 
@@ -216,27 +210,11 @@ func getUrl() []Urls {
 			StartPage:  0,
 			OutputFile: "courses.json",
 		},
-		//{
-		//	Url:        "https://portal.miva.university/enrol/rest/debtoraccount",
-		//	StartPage:  0,
-		//	OutputFile: "debtorAccounts.json",
-		//},
-		// Debtor is having status no content
-		//{
-		//	Url:        "https://portal.miva.university/enrol/rest/debtor",
-		//	StartPage:  0,
-		//	OutputFile: "debtors.json",
-		//},
 		{
 			Url:        "https://portal.miva.university/enrol/rest/document",
 			StartPage:  0,
 			OutputFile: "documents.json",
 		},
-		//{
-		//	Url:        "https://portal.miva.university/enrol/rest/employee",
-		//	StartPage:  0,
-		//	OutputFile: "employees.json",
-		//},
 		{
 			Url:        "https://portal.miva.university/enrol/rest/employmentrecord",
 			StartPage:  0,
@@ -282,11 +260,6 @@ func getUrl() []Urls {
 			StartPage:  0,
 			OutputFile: "invoices.json",
 		},
-		//{
-		//	Url:        "https://portal.miva.university/enrol/rest/lead",
-		//	StartPage:  0,
-		//	OutputFile: "leads.json",
-		//},
 		{
 			Url:        "https://portal.miva.university/enrol/rest/order",
 			StartPage:  0,
@@ -297,11 +270,6 @@ func getUrl() []Urls {
 			StartPage:  0,
 			OutputFile: "organizations.json",
 		},
-		//{
-		//	Url:        "https://portal.miva.university/enrol/rest/person/affiliation",
-		//	StartPage:  0,
-		//	OutputFile: "personAffiliations.json",
-		//},
 		{
 			Url:        "https://portal.miva.university/enrol/rest/productFee",
 			StartPage:  0,
@@ -332,16 +300,6 @@ func getUrl() []Urls {
 			StartPage:  0,
 			OutputFile: "receipts.json",
 		},
-		//{
-		//	Url:        "https://portal.miva.university/enrol/rest/referral",
-		//	StartPage:  0,
-		//	OutputFile: "referrals.json",
-		//},
-		//{
-		//	Url:        "https://portal.miva.university/enrol/rest/enrolment/registration",
-		//	StartPage:  0,
-		//	OutputFile: "enrolmentRegistration.json",
-		//},
 		{
 			Url:        "https://portal.miva.university/enrol/rest/report",
 			StartPage:  0,
@@ -407,10 +365,5 @@ func getUrl() []Urls {
 			StartPage:  0,
 			OutputFile: "role.json",
 		},
-		//{
-		//	Url:        "https://portal.miva.university/enrol/rest/statistics/ids",
-		//	StartPage:  0,
-		//	OutputFile: "statistics.json",
-		//},
 	}
 }
