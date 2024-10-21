@@ -2,14 +2,14 @@ package main
 
 import (
 	"encoding/json"
-	"flag"
 	"fmt"
 	"io"
-	"io/ioutil"
 	"log"
 	"net/http"
 	"os"
 	"time"
+
+	transformdata "github.com/victormazeli/sis_data_scrapper/TransformData"
 )
 
 // Struct for API response (change based on your API's structure)
@@ -47,6 +47,9 @@ func fetchData(apiURL string, page int, rateLimit time.Duration, ch chan []inter
 		client := &http.Client{}
 
 		resp, err := client.Do(response)
+		if err != nil {
+			log.Fatalf("error binding to http client:%v", err)
+		}
 
 		defer resp.Body.Close() // Ensure the response body is closed
 
@@ -62,7 +65,7 @@ func fetchData(apiURL string, page int, rateLimit time.Duration, ch chan []inter
 		defer resp.Body.Close()
 
 		// Read response body
-		body, err := ioutil.ReadAll(resp.Body)
+		body, err := io.ReadAll(resp.Body)
 		if err != nil {
 			log.Fatalf("Error reading response body: %v", err)
 		}
@@ -120,27 +123,28 @@ func saveDataToFile(fileName string, ch chan []interface{}) {
 
 func main() {
 	// Parse CLI arguments
-	jsessionId := flag.String("JSESSIONID", "", "Jsession Id")
-	casSession := flag.String("cas-session", "", "cas-session Id")
-	rateLimit := flag.Int("rate", 5, "Rate limit in seconds between requests")
+	// jsessionId := flag.String("JSESSIONID", "", "Jsession Id")
+	// casSession := flag.String("cas-session", "", "cas-session Id")
+	// rateLimit := flag.Int("rate", 5, "Rate limit in seconds between requests")
 
-	flag.Parse()
-	if jsessionId == nil {
-		log.Fatalf("JsessionId is required")
-	}
-	if casSession == nil {
-		log.Fatalf("Cas session is required")
-	}
+	// flag.Parse()
+	// if jsessionId == nil {
+	// 	log.Fatalf("JsessionId is required")
+	// }
+	// if casSession == nil {
+	// 	log.Fatalf("Cas session is required")
+	// }
 
-	for _, value := range getUrl() {
-		dataChannel := make(chan []interface{}, 1)
+	// for _, value := range getUrl() {
+	// 	dataChannel := make(chan []interface{}, 1)
 
-		go fetchData(value.Url, value.StartPage, time.Duration(*rateLimit)*time.Second, dataChannel, *jsessionId, *casSession)
+	// 	go fetchData(value.Url, value.StartPage, time.Duration(*rateLimit)*time.Second, dataChannel, *jsessionId, *casSession)
 
-		saveDataToFile(value.OutputFile, dataChannel)
-	}
-	// Start saving data to file
-	fmt.Println("Data scraping completed and saved to")
+	// 	saveDataToFile(value.OutputFile, dataChannel)
+	// }
+	// // Start saving data to file
+	// fmt.Println("Data scraping completed and saved to")
+	transformdata.TransformJsonData()
 }
 
 func getUrl() []Urls {

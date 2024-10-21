@@ -1,0 +1,1675 @@
+[
+  {
+    "id": "101",
+    "name": "Principles of Economics I",
+    "course_code": "ECO",
+    "description": "Principles of Economics I at is a foundational course that covers essential economic concepts, theories, and analytical techniques. It provides a comprehensive understanding of micro and macroeconomics, exploring individual decision-making, market mechanisms, and the economy as a whole.",
+    "credit_unit": 2,
+    "image_id": "92279433-0914-4c86-8028-cf4685757f42"
+  },
+  {
+    "id": "102",
+    "name": "Communication in English Language I",
+    "course_code": "GST",
+    "description": "This course focuses on developing effective reading, writing, speaking, and listening skills as essential communication tools. The course emphasises practical application in real-world scenarios, enhancing communication abilities for various social and academic settings.",
+    "credit_unit": 2,
+    "image_id": "e4df73fc-ff1a-4448-af99-15bf83262cf9"
+  },
+  {
+    "id": "113",
+    "name": "Introduction to Public Administration",
+    "course_code": "PAS",
+    "description": "Welcome to Introduction to Public Administration, a first-year course designed to provide you with a comprehensive understanding of the field of public administration and its role in governance and public service delivery. This course is an integral part of your academic journey at Miva Open University. ",
+    "credit_unit": 2,
+    "image_id": "5ef55247-977c-4649-a622-c6863d5c51a9"
+  },
+  {
+    "id": "114",
+    "name": "General Physics I",
+    "course_code": "PHY",
+    "description": "In this course, you will learn about the various areas of classical mechanics, such as motion in a straight line. Newton's laws. Work and energy and energy conservation. Momentum, impulse, and collisions. Angular motion, velocity, acceleration, and momentum. etc.",
+    "credit_unit": 2,
+    "image_id": "2959d95e-d3b9-4739-b56e-f32191c34985"
+  },
+  {
+    "id": "115",
+    "name": "Introduction to Finance",
+    "course_code": "FIN",
+    "description": "Introduction to Finance is a foundational course at Miva Open University, immersing students in the world of finance and its practical applications in business and investment decision-making. Students develop essential skills in financial statement analysis, risk evaluation, and understanding the time value of money. By the end of the course, students possess a solid foundation in finance, enabling them to make informed financial decisions and navigate the financial landscape with confidence. Whether aspiring to a finance career or seeking to enhance financial literacy, this course equips students with the necessary tools and insights for success.",
+    "credit_unit": 2,
+    "image_id": "f4ce3848-cfe3-431e-8177-265416cdd1c1"
+  },
+  {
+    "id": "116",
+    "name": "Environmental Sustainability",
+    "course_code": "GST",
+    "description": "Environmental Sustainability, a first-year course designed to provide you with a solid foundation in understanding environmental issues, their impacts on our planet, and the principles of sustainable development.",
+    "credit_unit": 2,
+    "image_id": "55519931-6b58-4405-b70e-f0d8de8d6e96"
+  },
+  {
+    "id": "117",
+    "name": "Introductory Statistics I",
+    "course_code": "SSC",
+    "description": "Introductory Statistics 1 provides a foundational understanding of statistics and its practical applications. The course covers key concepts such as probability theory, random variables, sampling, hypothesis testing, and various statistical techniques. ",
+    "credit_unit": 3,
+    "image_id": "ce2857d5-94d1-47d2-b6a4-4121f16664cb"
+  },
+  {
+    "id": "118",
+    "name": "General Practical Physics",
+    "course_code": "PHY",
+    "description": "In this course, through practical and experimental exercises, you will enhance your understanding of the theoretical concepts being taught in the various areas of classical mechanics.",
+    "credit_unit": 1,
+    "image_id": "2f11b48a-f59f-4bf1-982e-e8c95049e833"
+  },
+  {
+    "id": "119",
+    "name": "Contemporary Health Issues",
+    "course_code": "GST",
+    "description": "Welcome to Contemporary Health Issues! Immerse yourself in vital health topics, from public and environmental health to disease management and global health policy. Engage in interactive learning, assessments, and support.",
+    "credit_unit": 2,
+    "image_id": "e7884f54-a101-440f-818c-b0fafba73a37"
+  },
+  {
+    "id": "120",
+    "name": "Introduction to Computing",
+    "course_code": "CSC",
+    "description": "Introduction to Problem-Solving is a first-year course designed to provide you with a solid foundation in problem-solving techniques and computational thinking.",
+    "credit_unit": 3,
+    "image_id": "a3c2a08b-f235-4e04-bb2f-72dca9403ba8"
+  },
+  {
+    "id": "121",
+    "name": "Use of Library Study Skills and ICT",
+    "course_code": "GST",
+    "description": "This course focuses on enhancing your abilities to access, evaluate, and utilize information resources, while also providing guidance on study techniques and the integration of technology into your learning process.",
+    "credit_unit": 2,
+    "image_id": "0434112a-6251-49b8-918d-106bd937b923"
+  },
+  {
+    "id": "122",
+    "name": "Principles of Management I",
+    "course_code": "AMS",
+    "description": "Principles of Management I is a course that offers a solid foundation in management principles, functions, and their importance in organisations and society. It covers topics like planning.",
+    "credit_unit": 2,
+    "image_id": "65c6fea6-4696-44a8-96dd-83bff6bd5fbd"
+  },
+  {
+    "id": "123",
+    "name": "Introduction to Psychology",
+    "course_code": "PSY",
+    "description": "This is a foundational course that provides a comprehensive overview of the scientific study of human behaviour and mental processes. This course will introduce you to the fundamental concepts, theories, and methods used in psychology.",
+    "credit_unit": 2,
+    "image_id": "8a7288c6-130d-4f58-b3c1-1bdbb1eb3059"
+  },
+  {
+    "id": "124",
+    "name": "Introductory Mathematics for Economists I",
+    "course_code": "ECO",
+    "description": "Introductory Mathematics for Economists I is a first-year, first-semester course designed to provide you with a solid foundation in basic mathematical concepts and their applications in social sciences. \n",
+    "credit_unit": 2,
+    "image_id": "b19abd9b-9cb6-4555-bb8b-8a62ca1b193c"
+  },
+  {
+    "id": "125",
+    "name": "Basic Mathematics",
+    "course_code": "AMS",
+    "description": "Basic Mathematics is a first-year course at Miva Open University that aims to provide students with a solid understanding of fundamental mathematical concepts and techniques. The course focuses on developing problem-solving skills, critical thinking, and analytical abilities. It offers a strong foundation in mathematics, preparing students for advanced studies and applications in various fields. ",
+    "credit_unit": 2,
+    "image_id": "4ebb1afe-88be-47ab-8297-6a20b4472180"
+  },
+  {
+    "id": "126",
+    "name": "Introduction to Business I",
+    "course_code": "BUA",
+    "description": "The course focuses on the evolution and development of computer technology; however the course content includes the why and how of computers, historical development of computers; types of Computer (such as analogue, digital and hybrid); central preparation equipment (keypunch, sorter, etc). Computer programming; soft and hard ware; the functional unit of computer; and different information processing units.\n",
+    "credit_unit": 2,
+    "image_id": "2b1e3767-4f31-4737-9a42-5f74860e1c4d"
+  },
+  {
+    "id": "127",
+    "name": "Introduction to Sociology",
+    "course_code": "SOC",
+    "description": "Introduction to Sociology at Miva Open University offers a comprehensive exploration of fundamental sociological concepts. Gain a unique perspective on human societies, develop critical thinking skills, and understand the principles of sociological analysis. Support systems are available for student success.\n\n\n\n\n\n\n\n\n",
+    "credit_unit": 3,
+    "image_id": "a015482c-8d85-4adf-887b-f41371de77b7"
+  },
+  {
+    "id": "128",
+    "name": "Introduction to Entrepreneurship \u0026 Venture Creation",
+    "course_code": "ENT",
+    "description": "Introduction to Entrepreneurship is a first-year course providing a comprehensive understanding of entrepreneurial fundamentals. Whether starting a business or contributing to ventures, this course offers a strong foundation for success.",
+    "credit_unit": 3,
+    "image_id": "879efa46-a36c-467a-8e2c-e4d98cebe11e"
+  },
+  {
+    "id": "129",
+    "name": "Elements of Public Administration",
+    "course_code": "PAD",
+    "description": "Start your academic journey with Elements of Public Administration. Gain a comprehensive knowledge of the principles, theories, governance, and public services. Embark on a rewarding learning experience!",
+    "credit_unit": 3,
+    "image_id": "a28be818-a3bd-4328-b45a-b0545acf199c"
+  },
+  {
+    "id": "130",
+    "name": "Principles of Project Management",
+    "course_code": "AMS",
+    "description": "Introduction to Project Management at Miva Open University provides a comprehensive understanding of project management principles, methodologies, and practices. Develop essential skills to plan, execute, and deliver successful projects, with a focus on practical application and effective project management. Support systems are available for student success.",
+    "credit_unit": 3,
+    "image_id": "0b58b55f-7b24-4d2a-bd56-32557b5a08e8"
+  },
+  {
+    "id": "131",
+    "name": "Elementary Mathematics",
+    "course_code": "MTH",
+    "description": "The course covers topics such as numerical operations, basic algebraic equations, geometric principles, fractions, decimals, percentages, measurement, and data analysis. Students will engage in problem-solving activities, mathematical modeling, and critical thinking exercises to enhance their mathematical reasoning and problem-solving abilities.",
+    "credit_unit": 2,
+    "image_id": "72a3feb5-6774-41ea-812f-dd01d61fc6e2"
+  },
+  {
+    "id": "132",
+    "name": "Introduction to Political Science",
+    "course_code": "POL",
+    "description": "This course describes the introductory part of political Science but the course contents are understanding the basic concepts of power, authority, legitimacy; principles of Political Science; relationship between political philosophers and Political Science; historic study of the discipline’s greatest philosophers and their contributions; the concept of  state, its evolution and purpose; the science of political science; Approaches to the study of political Science; methods of scientific study of political science;  the theory and practice of government and governmental institutions; the nature of politics at local, state, national and international levels and finally, political science and other disciplines.",
+    "credit_unit": 2,
+    "image_id": "8be437d3-f419-4e47-b307-84092e830e74"
+  },
+  {
+    "id": "133",
+    "name": "Introduction to Accounting I",
+    "course_code": "ACC",
+    "description": "Introduction to Accounting I is a first year course that provides a foundational understanding of financial accounting principles, including financial statements, accounting systems, and practical problem-solving skills for success in business.",
+    "credit_unit": 3,
+    "image_id": "c2476cae-eecc-44e1-86f4-42d096390396"
+  },
+  {
+    "id": "134",
+    "name": "Organisations of Government",
+    "course_code": "PAD",
+    "description": "The course describes the role of government and its institutions in the context of socio-economic development in present-day societies. The course contents focus on the  Basic elements of government such as the legislature, executive and judiciary; the functions of the elements of government; The characteristics, differences and similarities between presidential and parliamentary systems of government; theory of separation of power; federalism and unitary systems of government; Policy-making and planning; problems of implementation and evaluation; Law and citizen; nature of law, liberty and economic justice within the peculiarity of the Nigerian state.",
+    "credit_unit": 3,
+    "image_id": "7a38a9ca-6381-42d2-a55b-9fcc9c0f28cc"
+  },
+  {
+    "id": "210",
+    "name": "QA Nursing course 1",
+    "course_code": "NUR",
+    "description": "QA Nursing course  is a first year course that provides a foundational understanding of financial accounting principles, including financial statements, accounting systems, and practical problem-solving skills for success in business.Introduction to Accounting I is a first year course that provides a foundational understanding of financial accounting principles, including financial statements, accounting systems, and practical problem-solving skills for success in business.",
+    "credit_unit": 2
+  },
+  {
+    "id": "211",
+    "name": "QA Nursing course 1",
+    "course_code": "NUR",
+    "description": "QA Nursing course  is a first year course that provides a foundational understanding of financial accounting principles, including financial statements, accounting systems, and practical problem-solving skills for success in business.Introduction to Accounting I is a first year course that provides a foundational understanding of financial accounting principles, including financial statements, accounting systems, and practical problem-solving skills for success in business.",
+    "credit_unit": 2
+  },
+  {
+    "id": "222",
+    "name": "Nigerian Peoples and Culture",
+    "course_code": "GST",
+    "description": "Nigerian Peoples and Culture",
+    "credit_unit": 2,
+    "image_id": "a8428af4-6ec5-4daf-a834-b1582670f74d"
+  },
+  {
+    "id": "223",
+    "name": "General Biology I ",
+    "course_code": "BIO",
+    "description": "General Biology is a foundational course offering a comprehensive introduction to key biological principles. It covers cell structure, organism classification, genetics, ecological concepts, and interrelationships among organisms. Students explore cells, learn about life's diversity and classification methods, delve into genetics and heredity, and study interactions in nature. This course is a vital foundation for future studies in biology, ecology, genetics, and related fields, fostering an appreciation for life's complexity and diversity on Earth.",
+    "credit_unit": 2,
+    "image_id": "d71978d1-bd71-46f7-8625-22d440b1ab02"
+  },
+  {
+    "id": "224",
+    "name": " General Biology Practical I",
+    "course_code": "BIO",
+    "description": "General Biology Practical I 1 ",
+    "credit_unit": 1,
+    "image_id": "2b295f36-c975-48e3-bf65-5d84ca0f3f98"
+  },
+  {
+    "id": "225",
+    "name": "General Biology II",
+    "course_code": "BIO",
+    "description": "General Biology II",
+    "credit_unit": 2
+  },
+  {
+    "id": "226",
+    "name": "General Biology Practical II",
+    "course_code": "BIO",
+    "description": "General Biology Practical II",
+    "credit_unit": 1
+  },
+  {
+    "id": "227",
+    "name": "General Chemistry II ",
+    "course_code": "CHM",
+    "description": "General Chemistry II",
+    "credit_unit": 2
+  },
+  {
+    "id": "228",
+    "name": "General Chemistry I",
+    "course_code": "CHM",
+    "description": "General Chemistry is a foundational course that comprehensively covers key concepts in chemistry. Students explore atoms, molecules, chemical reactions, and atomic structure. The course also includes topics such as radioactivity, chemical bonding, properties of gases, equilibria, thermodynamics, and electrochemistry. It serves as a crucial foundation for understanding matter and chemical processes, preparing students for further studies in chemistry and related fields.",
+    "credit_unit": 2,
+    "image_id": "1688c097-f996-48a7-82ce-80c606f73934"
+  },
+  {
+    "id": "229",
+    "name": " General Chemistry Practical I",
+    "course_code": "CHM",
+    "description": " General Chemistry Practical I",
+    "credit_unit": 1,
+    "image_id": "71994b50-07da-40d6-bb50-7da440dc1881"
+  },
+  {
+    "id": "230",
+    "name": " General Chemistry Practical II",
+    "course_code": "CHM",
+    "description": " General Chemistry Practical II",
+    "credit_unit": 1
+  },
+  {
+    "id": "231",
+    "name": "General Physics II",
+    "course_code": "PHY",
+    "description": "General Physics II",
+    "credit_unit": 2,
+    "image_id": "27b56eff-4bbb-41d2-ae41-bdedadf1bfa6"
+  },
+  {
+    "id": "232",
+    "name": "General Physics Practical II",
+    "course_code": "PHY",
+    "description": "This practical course is a continuation of PHY 107 and is intended to be taught during the second semester of the 100 level to cover the practical aspect of the theoretical courses that have been covered with emphasis on quantitative measurements, the treatment of measurement errors, and graphical analysis.",
+    "credit_unit": 1,
+    "image_id": "607d8453-3a50-4fd1-8e24-e7544fb58ac3"
+  },
+  {
+    "id": "233",
+    "name": "Introductory Physiology and Blood",
+    "course_code": "PIO",
+    "description": "\"Introductory Physiology and Blood\" is a foundational course that covers essential principles of physiology and the circulatory system. It introduces topics like cell membranes, transport processes, homeostasis, and blood components. This course lays the groundwork for further studies in biology, medicine, and related fields.",
+    "credit_unit": 2,
+    "image_id": "52dea8dd-c3cc-4380-8ed5-83f9e0050c45"
+  },
+  {
+    "id": "234",
+    "name": " Anatomy of Upper and Lower Limb ",
+    "course_code": "ANA",
+    "description": "\"Anatomy of Upper and Lower Limb\" is a foundational course exploring the human musculoskeletal system. Covering muscle anatomy, joint movements, and limb organization, it equips students with essential knowledge for further studies in medicine and biology.",
+    "credit_unit": 3,
+    "image_id": "989bd318-00e3-4ff7-b99b-ec59a38611af"
+  },
+  {
+    "id": "235",
+    "name": " General and Systemic Embryology ",
+    "course_code": "ANA",
+    "description": "General and Systemic Embryology is a foundational course that explores the intricate processes of organism development, covering topics from gamete formation to complex organ system construction. By the course's end, students gain a profound understanding of embryonic development principles, preparing them for studies in biology, medicine, and related fields.",
+    "credit_unit": 2,
+    "image_id": "ea24fe1d-6525-4365-ae39-aa842d663922"
+  },
+  {
+    "id": "236",
+    "name": "Entrepreneurship and Innovation ",
+    "course_code": "ENT",
+    "description": "Entrepreneurship and Innovation 2",
+    "credit_unit": 2,
+    "image_id": "597602c8-52dd-4f7f-a48a-21e0d13c43d1"
+  },
+  {
+    "id": "237",
+    "name": " Philosophy, Logic and Human Existence",
+    "course_code": "GST",
+    "description": " Philosophy, Logic, and Human Existence",
+    "credit_unit": 2,
+    "image_id": "ea819a54-2e30-4e3d-9c42-58c824017fbd"
+  },
+  {
+    "id": "238",
+    "name": " Biochemistry – General and Medical I ",
+    "course_code": "BCH",
+    "description": "\"Biochemistry – General and Medical I\" is a foundational course providing essential knowledge in biochemistry, covering topics like amino acids, proteins, carbohydrates, lipids, and nucleic acids. It's a crucial foundation for careers in healthcare, biology, or related fields where understanding biochemical processes is essential.",
+    "credit_unit": 2,
+    "image_id": "9b791b4e-ffe3-46a3-a78d-2470222e8703"
+  },
+  {
+    "id": "239",
+    "name": "Foundation of Professional Nursing Practice I",
+    "course_code": "NSC",
+    "description": "\"Foundations of Professional Nursing Practice I\" is an introductory course covering essential principles in nursing. It includes topics like healthcare concepts, nursing history, the Nursing Process, ethics, and practical skills. This course prepares students for clinical practice and a successful nursing career.",
+    "credit_unit": 2,
+    "image_id": "6ef3eced-8ed9-4d5c-ae79-2f6542057b94"
+  },
+  {
+    "id": "240",
+    "name": "Foundation of Professional Nursing Practice II",
+    "course_code": "NSC",
+    "description": "Foundation of Nursing II",
+    "credit_unit": 2,
+    "image_id": "616c71d8-02b3-42e9-92aa-21068020789f"
+  },
+  {
+    "id": "241",
+    "name": " General and Cellular Pathology",
+    "course_code": "NSC",
+    "description": " General and Cellular Pathology 2",
+    "credit_unit": 2,
+    "image_id": "699c7dcb-60ac-489a-8fc4-273418c28593"
+  },
+  {
+    "id": "242",
+    "name": "Developmental Psychology",
+    "course_code": "NSC",
+    "description": "\"Developmental Psychology\" is a vital course that explores human growth from conception to old age, including psychological challenges and milestones. It covers learning theories, intelligence, environmental influences, and their impact on behavior. This course prepares students for holistic patient care in healthcare and nursing.",
+    "credit_unit": 1,
+    "image_id": "8526bdc5-4559-4a06-bb96-8fd0243efff4"
+  },
+  {
+    "id": "243",
+    "name": " Renal and Body Fluids Physiology",
+    "course_code": "PIO",
+    "description": " Renal and Body Fluids Physiology",
+    "credit_unit": 2,
+    "image_id": "2c5cd226-6374-4779-8178-9efb8b66232d"
+  },
+  {
+    "id": "244",
+    "name": " Anatomy of Thorax, Abdomen, Pelvis and Perineum",
+    "course_code": "ANA",
+    "description": " Anatomy of Thorax, Abdomen, Pelvis and Perineum",
+    "credit_unit": 3,
+    "image_id": "995ac2be-cb63-4c2a-90d0-b610918f862f"
+  },
+  {
+    "id": "245",
+    "name": "Biochemistry – General and Medical II ",
+    "course_code": "BCH",
+    "description": "",
+    "credit_unit": 2,
+    "image_id": "0854be37-4441-45b7-9ad0-2e2bd411ac05"
+  },
+  {
+    "id": "246",
+    "name": "General Biochemistry Practical 1",
+    "course_code": "BCH",
+    "description": "\"General Biochemistry Practical\" is a hands-on lab course that complements BCH 201 and BCH 202, offering practical experience in biochemistry experiments matching course topics. Students learn lab methods, reinforcing their biochemistry knowledge and practical skills, and gain insights into biochemistry's real-world applications in research.",
+    "credit_unit": 1,
+    "image_id": "413bff9c-7b39-4b4f-9531-6d545d9bc041"
+  },
+  {
+    "id": "254",
+    "name": "Introduction to Problem Solving",
+    "course_code": "CSC",
+    "description": "This course is designed to provide you with a strong foundation in problem-solving skills and techniques in the context of computing. Topics such as problem identification, problem types, solution techniques, and solution formulation are covered in this course. You will also learn about algorithms, heuristics, and various problem-solving methods.",
+    "credit_unit": 3,
+    "image_id": "bf3d1cf0-8e04-4689-ab33-80e8cdbdd8ca"
+  },
+  {
+    "id": "255",
+    "name": "Introduction to Web Technologies ",
+    "course_code": "CSC",
+    "description": "Explore the foundations of the Internet and the World Wide Web in this course, emphasizing web development essentials. Understand the WWW as a platform for interactive applications, content publishing, and social services, with a focus on HTTP and HTTPS protocols. Gain practical skills in web development, including building a simple, standards-compliant website using HTML, CSS, and exploring client-side programming with JavaScript.",
+    "credit_unit": 3,
+    "image_id": "b33dbbe7-7181-4345-89cf-3309e9100ff3"
+  },
+  {
+    "id": "256",
+    "name": "Communication in English Language II",
+    "course_code": "GST",
+    "description": "This comprehensive course is designed to enhance your communication and writing skills, focusing on ethical considerations, copyright rules, and various writing activities. You will engage in a structured exploration of pre-writing, writing, post-writing, editing, and proofreading techniques.",
+    "credit_unit": 2,
+    "image_id": "de08d739-3352-4d77-b41e-61c9c0ced7d8"
+  },
+  {
+    "id": "257",
+    "name": "Principles of Economics II",
+    "course_code": "ECO",
+    "description": "This course introduces the principles of macroeconomics, which explores economics at a broader level and studies phenomena that influence national and global economies. The course will treat topics such as national income accounting, consumption, savings and investment, inflation, unemployment, money, and the banking system, among others.",
+    "credit_unit": 2,
+    "image_id": "78751f4e-182d-41c0-ba07-b0415fe6cf53"
+  },
+  {
+    "id": "258",
+    "name": "Elementary Mathematics (Calculus)II",
+    "course_code": "MTH",
+    "description": "Elementary Mathematics II is a continuation of the foundational concepts introduced in Elementary Mathematics I, designed to further develop students' understanding of essential mathematical principles and their practical applications.",
+    "credit_unit": 2,
+    "image_id": "e83d1129-9609-4f2a-848b-38146f833d53"
+  },
+  {
+    "id": "260",
+    "name": "Introduction to Business II",
+    "course_code": "BUA",
+    "description": "‘Introduction to Business II’ expands on the foundation laid in 'Introduction to Business I,' offering an in-depth exploration of key organizational functions and their interconnections. ",
+    "credit_unit": 2,
+    "image_id": "bb830b40-5924-4b50-b37b-ff69328d0b6d"
+  },
+  {
+    "id": "261",
+    "name": "Introductory Mathematics for Economists II",
+    "course_code": "ECO",
+    "description": "The course \"Introduction to Mathematics for Economists\" provides a foundational understanding of mathematical concepts essential for economic analysis. This course equips students with a deep understanding needed to explore the language of mathematics, including set theory and logic, and develop skills in algebra and calculus.",
+    "credit_unit": 2,
+    "image_id": "af36f72c-4c54-46c5-8895-dafd4feebe8f"
+  },
+  {
+    "id": "262",
+    "name": "Introduction to Financial Accounting II ",
+    "course_code": "ACC",
+    "description": "The course, “Introduction to Financial Accounting II, provides a more detailed treatment of fundamental accounting concepts and techniques. The primary focus of this course is on the preparation and presentation of financial statements for different types of business entities, including sole traders, partnerships, and limited liability companies.",
+    "credit_unit": 3,
+    "image_id": "e835dfd3-80b7-4f0d-bd56-a9eb43b77df4"
+  },
+  {
+    "id": "263",
+    "name": "Principles of Management II",
+    "course_code": "AMS",
+    "description": "",
+    "credit_unit": 3,
+    "image_id": "64de0a26-5620-4a2e-8710-1bab6353da73"
+  },
+  {
+    "id": "264",
+    "name": "Introduction to Statistics II",
+    "course_code": "SSC",
+    "description": "This course provides you with a comprehensive introduction to the field of statistics, covering its various components and applications. You will explore the fundamental principles and methods used in statistical analysis, enabling you to make informed decisions and draw meaningful conclusions from data and also delve into exploratory data analysis, learning how to use descriptive statistical tools to summarise, visualise, and interpret data.",
+    "credit_unit": 3,
+    "image_id": "4ecd42cf-f4d6-4371-ba47-bedb7e4eaeda"
+  },
+  {
+    "id": "265",
+    "name": "Nigerian Legal System",
+    "course_code": "PAD",
+    "description": "This course provides an in-depth exploration of the nature of legal administration and judicial processes in Nigeria. Students will examine the sources of Nigerian laws, including English law, English-received laws, customary laws, and judicial precedents. ",
+    "credit_unit": 2,
+    "image_id": "355ad382-dabf-4512-aed7-690eac9ca732"
+  },
+  {
+    "id": "266",
+    "name": "Introduction to Policy and Decision Making",
+    "course_code": "PAD",
+    "description": "This course delves into the nature and complexity of policy, covering foundational concepts like policy, plan, program, and project. Explore the characteristics of public policy, examining the relationships between public policy, public interest, and public problems. Analyze the elements and typology of public policy, considering the formal and informal actors involved. ",
+    "credit_unit": 3,
+    "image_id": "d63299ba-649d-4da0-9c4a-693db83ba1f8"
+  },
+  {
+    "id": "267",
+    "name": "Computer Programming I",
+    "course_code": "COS",
+    "description": "Computer Programming I",
+    "credit_unit": 3,
+    "image_id": "a3440844-0e76-48cf-b314-a3e94631b9e1"
+  },
+  {
+    "id": "268",
+    "name": "Introduction to Public Administration",
+    "course_code": "PAD",
+    "description": "This course explores the classification and typologies of organizations, emphasizing principles such as hierarchy, authority, delegation, coordination, communication, supervision, and span of control. Delve into the concept of bureaucracy, examining its nature, strengths, weaknesses, and ideal characteristics. ",
+    "credit_unit": 3,
+    "image_id": "4d877b24-c9c1-4ae5-acc9-ef4bcfc4258a"
+  },
+  {
+    "id": "269",
+    "name": "Discrete Structures",
+    "course_code": "COS",
+    "description": "Discrete Structures",
+    "credit_unit": 2,
+    "image_id": "a637ec04-88c9-4454-aaa1-4f3f4da326b2"
+  },
+  {
+    "id": "270",
+    "name": "Introduction to Cybersecurity and Strategy",
+    "course_code": "CYB",
+    "description": "Introduction to Cybersecurity and Strategy",
+    "credit_unit": 2,
+    "image_id": "a0af5a08-3587-4511-954b-8dfa498439db"
+  },
+  {
+    "id": "271",
+    "name": "Introduction to Software Engineering",
+    "course_code": "SEN",
+    "description": "Introduction to Software Engineering",
+    "credit_unit": 2,
+    "image_id": "92d26da7-5a7f-44b6-a6da-c2afed080012"
+  },
+  {
+    "id": "272",
+    "name": "Office Administration",
+    "course_code": "PAD",
+    "description": "This course introduces basic concepts in office administration, emphasizing essential skills and techniques. Explore management services, business and official letter writing, application processes, and ICT integration in office administration. ",
+    "credit_unit": 2,
+    "image_id": "551089d5-5ee8-4acc-b54e-b103ed3336f3"
+  },
+  {
+    "id": "273",
+    "name": "Cybercrime Law and Countermeasures",
+    "course_code": "CYB",
+    "description": "Cybercrime Law and Countermeasures",
+    "credit_unit": 2,
+    "image_id": "55dd35d4-f578-4585-b4c4-41a940ef3cf1"
+  },
+  {
+    "id": "274",
+    "name": "Linear Algebra I",
+    "course_code": "MTH",
+    "description": "Linear Algebra I",
+    "credit_unit": 2,
+    "image_id": "ea19473f-957c-4bad-a47c-cb67cb1e550d"
+  },
+  {
+    "id": "275",
+    "name": "Foreign Policy Making and Analysis",
+    "course_code": "PAD",
+    "description": "The Foreign Policy Formulation course will provide students with a profound understanding of the relationship between foreign policy and national interests through a comprehensive exploration of key concepts, case studies, and real-world examples.",
+    "credit_unit": 2,
+    "image_id": "372cfefc-2224-445b-9a11-8bfa59e053ba"
+  },
+  {
+    "id": "276",
+    "name": "Computer Programming II",
+    "course_code": "COS",
+    "description": "Computer Programming II",
+    "credit_unit": 3
+  },
+  {
+    "id": "277",
+    "name": "Leadership and Governance",
+    "course_code": "BUA",
+    "description": "This course offers students a holistic exploration of leadership and governance, weaving foundational concepts with contemporary insights crucial for the 21st century. This curriculum not only focuses on leadership theories and styles but also introduces students to the nuances of ethical, digital, and diversity-focused leadership",
+    "credit_unit": 2,
+    "image_id": "d9f0b3d9-ffa8-4242-bde2-7f6509a9d89c"
+  },
+  {
+    "id": "278",
+    "name": "Systems Analysis and Design",
+    "course_code": "INS",
+    "description": "Systems Analysis and Design",
+    "credit_unit": 3
+  },
+  {
+    "id": "279",
+    "name": "Nigerian Government and Administration",
+    "course_code": "PAD",
+    "description": "",
+    "credit_unit": 2
+  },
+  {
+    "id": "280",
+    "name": "Rural and Community Development",
+    "course_code": "PAD",
+    "description": "",
+    "credit_unit": 2
+  },
+  {
+    "id": "281",
+    "name": "Computer Architecture and Organisation",
+    "course_code": "IFT",
+    "description": "Computer Architecture and Organisation",
+    "credit_unit": 2
+  },
+  {
+    "id": "282",
+    "name": "Contemporary Strategic Studies",
+    "course_code": "PAD",
+    "description": "",
+    "credit_unit": 2
+  },
+  {
+    "id": "283",
+    "name": "Policy Process",
+    "course_code": "PAD",
+    "description": "",
+    "credit_unit": 3
+  },
+  {
+    "id": "284",
+    "name": "Linear Algebra II",
+    "course_code": "MTH",
+    "description": "Linear Algebra II",
+    "credit_unit": 2,
+    "image_id": "d7cd02c8-1485-4c9f-b66a-f7087542de32"
+  },
+  {
+    "id": "285",
+    "name": "Quantitative Methods for Decision Making",
+    "course_code": "PAD",
+    "description": "",
+    "credit_unit": 3
+  },
+  {
+    "id": "286",
+    "name": "Introduction to Computer Networks",
+    "course_code": "CYB",
+    "description": "Introduction to Computer Networks",
+    "credit_unit": 3
+  },
+  {
+    "id": "287",
+    "name": "Mathematical Methods I",
+    "course_code": "MTH",
+    "description": "Mathematical Methods I",
+    "credit_unit": 2,
+    "image_id": "d9805afe-6daf-46ef-9d33-be5ecba31d16"
+  },
+  {
+    "id": "288",
+    "name": "Sets, Logic and Algebra I",
+    "course_code": "MTH",
+    "description": "Sets, Logic and Algebra I",
+    "credit_unit": 2,
+    "image_id": "19f73c28-a646-47eb-9ea3-c7a700a108c4"
+  },
+  {
+    "id": "289",
+    "name": "Introduction to Microeconomics I",
+    "course_code": "ECO",
+    "description": "This introductory course covers microeconomic principles, focusing on partial equilibrium analysis, demand and supply curves, and price elasticity. Explore consumer behavior from Cardinalist and Ordinalist perspectives, employing indifference curves and partial derivatives. ",
+    "credit_unit": 2,
+    "image_id": "c25cd0c8-9d87-4c6f-8200-751e06d2ab49"
+  },
+  {
+    "id": "290",
+    "name": "Introduction to Microeconomics II",
+    "course_code": "ECO",
+    "description": "",
+    "credit_unit": 2,
+    "image_id": "b1d4a90f-2239-448e-b910-bb8bfab14c13"
+  },
+  {
+    "id": "291",
+    "name": "Introduction to Numerical Analysis",
+    "course_code": "MTH",
+    "description": "Introduction to Numerical Analysis",
+    "credit_unit": 2,
+    "image_id": "d6b7b457-f81a-4b01-8cc2-6c092d473b54"
+  },
+  {
+    "id": "292",
+    "name": "Introduction to Data Science",
+    "course_code": "DTS",
+    "description": "Introduction to Data Science",
+    "credit_unit": 2,
+    "image_id": "074ed571-703b-41d9-a5f2-ee9835dd94ac"
+  },
+  {
+    "id": "293",
+    "name": "Introduction to Macroeconomics I",
+    "course_code": "ECO",
+    "description": "The Introduction to Macroeconomics I course is designed to provide a comprehensive understanding of both microeconomics and macroeconomics, essential branches of economic science. ",
+    "credit_unit": 2,
+    "image_id": "e2098cd0-4698-46c1-a282-e805dfd74326"
+  },
+  {
+    "id": "294",
+    "name": "Introduction to R Programming",
+    "course_code": "DTS",
+    "description": "Introduction to R Programming",
+    "credit_unit": 2,
+    "image_id": "3ad1d0c7-8187-4114-94a1-af16dbb734de"
+  },
+  {
+    "id": "295",
+    "name": "Introduction to Macroeconomics II",
+    "course_code": "ECO",
+    "description": "",
+    "credit_unit": 2,
+    "image_id": "9079e07a-b3fb-48d8-9654-92d207c6caa3"
+  },
+  {
+    "id": "296",
+    "name": "Discrete Structures",
+    "course_code": "CSC",
+    "description": "Discrete Structures",
+    "credit_unit": 2,
+    "image_id": "fdba3530-d8ca-45c4-b758-950f34c2f3fa"
+  },
+  {
+    "id": "297",
+    "name": "Structure of the Nigerian Economy",
+    "course_code": "ECO",
+    "description": "",
+    "credit_unit": 2,
+    "image_id": "0a623889-5d40-49a6-9c5c-408e22d17efc"
+  },
+  {
+    "id": "298",
+    "name": "Mathematics for Economists",
+    "course_code": "ECO",
+    "description": "This course provides a comprehensive overview of mathematical tools and techniques essential for analysing economic theories and models. Topics covered include derivatives of trigonometric functions, sequences and series, expansions, ",
+    "credit_unit": 2,
+    "image_id": "c4fc82f3-c52a-4b3d-9f08-546ddd6fcc03"
+  },
+  {
+    "id": "299",
+    "name": "Financial markets and Monetary Economics",
+    "course_code": "ECO",
+    "description": "This course explores the pivotal role of economics in financial decision-making, policies, and outcomes. Gain insights into various financial markets and systems, understanding both domestic and global financial landscapes. ",
+    "credit_unit": 3,
+    "image_id": "b87034b4-5bee-4567-a1b7-eb13873d059e"
+  },
+  {
+    "id": "300",
+    "name": "Statistical Computing Inference and Modelling",
+    "course_code": "DTS",
+    "description": "Statistical Computing Inference and Modelling",
+    "credit_unit": 3
+  },
+  {
+    "id": "301",
+    "name": "Labour Economics",
+    "course_code": "ECO",
+    "description": "This course explores the meaning and scope of labour economics, addressing the nature of labour problems in developing economies. Examine factors influencing the size and composition of the labour force, concepts of unemployment and underemployment, and the industrial and occupational distribution of labour.",
+    "credit_unit": 2,
+    "image_id": "41e46f76-f9c2-46ae-974d-3a9fd4054f58"
+  },
+  {
+    "id": "302",
+    "name": "Data Engineering",
+    "course_code": "DTS",
+    "description": "Data Engineering",
+    "credit_unit": 3
+  },
+  {
+    "id": "303",
+    "name": "Financial Accounting I",
+    "course_code": "ACC",
+    "description": "This course on financial accounting I provides insights into the conceptual framework for financial reporting. Explore Small and Medium-sized Entities' Guidelines on Accounting (SMEGA) and Level 3 guidance. Learn partnership fundamentals, including definitions, types of partners, deeds, capital accounts, profit-sharing ratios, and appropriation accounts. ",
+    "credit_unit": 3,
+    "image_id": "ab7eb76f-7da6-4e4c-a901-98dcfcb7782d"
+  },
+  {
+    "id": "304",
+    "name": "Digital Logic Design",
+    "course_code": "IFT",
+    "description": "Digital Logic Design",
+    "credit_unit": 2,
+    "image_id": "632829f1-273a-482f-a638-c5b6984fb09e"
+  },
+  {
+    "id": "305",
+    "name": "Introduction to Computer and Its Applications",
+    "course_code": "SSC",
+    "description": "",
+    "credit_unit": 3
+  },
+  {
+    "id": "306",
+    "name": "Statistics for Economists",
+    "course_code": "ECO",
+    "description": "",
+    "credit_unit": 2
+  },
+  {
+    "id": "307",
+    "name": "Software Requirements Engineering",
+    "course_code": "SEN",
+    "description": "Software Requirements Engineering",
+    "credit_unit": 3,
+    "image_id": "9d4fb587-d70e-4e9b-b050-159b08d3bd9f"
+  },
+  {
+    "id": "308",
+    "name": "Behavioural Economics",
+    "course_code": "ECO",
+    "description": "",
+    "credit_unit": 2
+  },
+  {
+    "id": "309",
+    "name": "Introduction to Decision Science",
+    "course_code": "ECO",
+    "description": "",
+    "credit_unit": 2
+  },
+  {
+    "id": "310",
+    "name": "Elementary Differential Equations",
+    "course_code": "MTH",
+    "description": "Mathematical Methods II",
+    "credit_unit": 2
+  },
+  {
+    "id": "311",
+    "name": "Business Statistics",
+    "course_code": "BUA",
+    "description": "This course on business statistics explores the essentials of statistics, covering descriptive and inferential methods. Understand statistical roles in business and management information. Learn data collection and tabulation, probability concepts, distributions, sampling, interval estimation, hypothesis testing, and correlation/regression analysis. Ideal for gaining statistical proficiency in modern business contexts.",
+    "credit_unit": 3,
+    "image_id": "939e4d4f-cbcf-4651-a9fa-72c65af9ac4a"
+  },
+  {
+    "id": "312",
+    "name": "Principles of Business Administration I",
+    "course_code": "BUA",
+    "description": "Throughout this course, we will explore the fundamental concepts that define the field of management. We will examine the universality of management across various domains such as production, marketing, finance, people management, processes, and systems.",
+    "credit_unit": 3,
+    "image_id": "1c9dc3b1-6c4e-46ba-9773-a2c92ac781a6"
+  },
+  {
+    "id": "313",
+    "name": "Elements of Marketing",
+    "course_code": "BUA",
+    "description": "This course provides a comprehensive exploration of marketing, covering its definition, evolution, role, and importance in business. Delve into the marketing system and analyse the marketing environment, buyer behaviour, market segmentation, measurement, and forecasting.",
+    "credit_unit": 2,
+    "image_id": "bfa3ed34-a8e1-4ff3-8c23-50d378964460"
+  },
+  {
+    "id": "314",
+    "name": "Current Issues in Global Business",
+    "course_code": "BUA",
+    "description": "The course explores contemporary issues, challenges, and opportunities experienced by businesses in the global business environment. The influence and impact on businesses of the various global business environment factors are analysed in this course",
+    "credit_unit": 3,
+    "image_id": "d9c59333-6952-4ed5-a0dd-6acd8e62429f"
+  },
+  {
+    "id": "315",
+    "name": "Principles of Business Administration II",
+    "course_code": "BUA",
+    "description": "",
+    "credit_unit": 3,
+    "image_id": "1384d94c-6002-49e5-9e7f-291a1f5b5482"
+  },
+  {
+    "id": "316",
+    "name": "Green Management",
+    "course_code": "BUA",
+    "description": "",
+    "credit_unit": 2
+  },
+  {
+    "id": "317",
+    "name": "Sustainable Computing",
+    "course_code": "SEN",
+    "description": "Sustainable Computing",
+    "credit_unit": 3
+  },
+  {
+    "id": "318",
+    "name": "Business Environment",
+    "course_code": "BUS",
+    "description": "",
+    "credit_unit": 2
+  },
+  {
+    "id": "319",
+    "name": "Quantitative Analysis in Management",
+    "course_code": "BUA",
+    "description": "",
+    "credit_unit": 3
+  },
+  {
+    "id": "320",
+    "name": "Software Engineering Process",
+    "course_code": "SEN",
+    "description": "Software Engineering Process",
+    "credit_unit": 3
+  },
+  {
+    "id": "321",
+    "name": "Introduction to Financial Management",
+    "course_code": "BUA",
+    "description": "",
+    "credit_unit": 3
+  },
+  {
+    "id": "322",
+    "name": "Data Analytics in Accounting ",
+    "course_code": "ACC",
+    "description": "Data Analytics in Accounting masters spreadsheet applications for accounting and data analysis. Explore cloud-based accounting software and the standard chart of accounts on ERP systems",
+    "credit_unit": 3,
+    "image_id": "e7c97b8a-7568-4751-bdb5-1b289de5aee1"
+  },
+  {
+    "id": "323",
+    "name": "Introduction to Electric Circuits and Electronics",
+    "course_code": "PHY",
+    "description": "Introduction to Electric Circuits and Electronics",
+    "credit_unit": 2
+  },
+  {
+    "id": "324",
+    "name": "Corporate Governance and Accounting Ethics",
+    "course_code": "ACC",
+    "description": "This course provides a comprehensive understanding of corporate governance concepts, exploring theoretical frameworks and practical applications. Study national (FRCN code), international (OECD), and relevant codes shaping corporate governance practices.",
+    "credit_unit": 3,
+    "image_id": "34f4523a-48e6-41e8-b086-96dd0d234160"
+  },
+  {
+    "id": "325",
+    "name": "Commercial Law for Accountants I",
+    "course_code": "ACC",
+    "description": "This comprehensive course covers the diverse sources of Nigerian law, including statutes, case law, customary law, and international treaties. We explore the hierarchical structure of Nigerian courts and the principles governing commercial arbitration. ",
+    "credit_unit": 2,
+    "image_id": "2cea38be-6a77-4d59-99dd-a22b5126911f"
+  },
+  {
+    "id": "326",
+    "name": "Petroleum Accounting ",
+    "course_code": "ACC",
+    "description": "This course explores the fundamentals of oil and gas accounting, covering industry terminologies, reserves, and upstream operations phases. Understand regulatory frameworks (SAS, IAS, IFRS, and GAAP), historical cost methods, and financial reporting.3",
+    "credit_unit": 2,
+    "image_id": "583dd330-0d6c-48c6-9b7e-0bb7b2d740bc"
+  },
+  {
+    "id": "327",
+    "name": "Financial Accounting II",
+    "course_code": "ACC",
+    "description": "",
+    "credit_unit": 3,
+    "image_id": "176e9600-28df-4a45-806e-7c3aff66be48"
+  },
+  {
+    "id": "328",
+    "name": "Cost Accounting",
+    "course_code": "ACC",
+    "description": "",
+    "credit_unit": 3
+  },
+  {
+    "id": "329",
+    "name": "Accounting Laboratory/Technology",
+    "course_code": "ACC",
+    "description": "",
+    "credit_unit": 3
+  },
+  {
+    "id": "330",
+    "name": "Capital Markets and Portfolio Theory",
+    "course_code": "ACC",
+    "description": "",
+    "credit_unit": 2
+  },
+  {
+    "id": "331",
+    "name": "Commercial Law for Accountants II",
+    "course_code": "ACC",
+    "description": "",
+    "credit_unit": 2,
+    "image_id": "f3ad968f-4f2d-44c5-a220-055e72a11f1e"
+  },
+  {
+    "id": "332",
+    "name": "Peace and Conflict Resolution",
+    "course_code": "GST",
+    "description": "",
+    "credit_unit": 2
+  },
+  {
+    "id": "333",
+    "name": "Leadership Skills",
+    "course_code": "GST",
+    "description": "",
+    "credit_unit": 2
+  },
+  {
+    "id": "334",
+    "name": "Public Health Seminars I",
+    "course_code": "PHS",
+    "description": "Public Health Seminars I",
+    "credit_unit": 1
+  },
+  {
+    "id": "335",
+    "name": "Human Genetics",
+    "course_code": "PHS",
+    "description": "Human Genetics",
+    "credit_unit": 2
+  },
+  {
+    "id": "336",
+    "name": " Principles of Epidemiology (infectious disease epidemiology and Immunisation techniques) ",
+    "course_code": "PHS",
+    "description": " Principles of Epidemiology (infectious disease epidemiology and Immunisation techniques) ",
+    "credit_unit": 2
+  },
+  {
+    "id": "337",
+    "name": " Introduction to Public Health ",
+    "course_code": "PHS",
+    "description": " Introduction to Public Health ",
+    "credit_unit": 2
+  },
+  {
+    "id": "338",
+    "name": " General Microbiology ",
+    "course_code": "MCB",
+    "description": " General Microbiology ",
+    "credit_unit": 2
+  },
+  {
+    "id": "339",
+    "name": "Biostatistics",
+    "course_code": "PHS",
+    "description": "Biostatistics",
+    "credit_unit": 2
+  },
+  {
+    "id": "340",
+    "name": "Demography and Social Statistics in Public Health",
+    "course_code": "PHS",
+    "description": "Demography and Social Statistics in Public Health",
+    "credit_unit": 2
+  },
+  {
+    "id": "341",
+    "name": "Health Anthropology",
+    "course_code": "PHS",
+    "description": "Health Anthropology",
+    "credit_unit": 3
+  },
+  {
+    "id": "342",
+    "name": "Public Health Services",
+    "course_code": "PHS",
+    "description": "Public Health Services",
+    "credit_unit": 3
+  },
+  {
+    "id": "343",
+    "name": "SIWES I",
+    "course_code": "CYB",
+    "description": "SIWES I",
+    "credit_unit": 3,
+    "image_id": "6003a911-b66c-46e6-a668-705206b37458"
+  },
+  {
+    "id": "344",
+    "name": "SIWES I",
+    "course_code": "DTS",
+    "description": "SIWES I",
+    "credit_unit": 3,
+    "image_id": "1c396f9a-1ba1-4b5a-95a9-8c79e7b7534c"
+  },
+  {
+    "id": "345",
+    "name": "SIWES I",
+    "course_code": "SEN",
+    "description": "SIWES I",
+    "credit_unit": 3,
+    "image_id": "633542c6-5ab6-402a-b582-2f3d2afcc841"
+  },
+  {
+    "id": "346",
+    "name": "SIWES I",
+    "course_code": "CSC",
+    "description": "SIWES I",
+    "credit_unit": 3
+  },
+  {
+    "id": "347",
+    "name": "Digital Logic Design",
+    "course_code": "CSC",
+    "description": "Digital Logic Design",
+    "credit_unit": 2,
+    "image_id": "99d0dece-8634-4daf-8274-fee7134159cd"
+  },
+  {
+    "id": "348",
+    "name": "Strategic Leadership",
+    "course_code": "PAD",
+    "description": "Strategic Leadership",
+    "credit_unit": 2
+  },
+  {
+    "id": "359",
+    "name": "Introduction to Computing",
+    "course_code": "AMS",
+    "description": "Introduction to Computers",
+    "credit_unit": 2,
+    "image_id": "ffcdfa15-928f-41ad-98b0-e444d72659ce"
+  },
+  {
+    "id": "360",
+    "name": "Business Statistics",
+    "course_code": "ENT",
+    "description": "Business Statistics",
+    "credit_unit": 2,
+    "image_id": "1f4146c6-9fdb-451c-bd01-1196503196ea"
+  },
+  {
+    "id": "361",
+    "name": "Business Pitching",
+    "course_code": "ENT",
+    "description": "Business Pitching",
+    "credit_unit": 2,
+    "image_id": "75399e37-bab1-47ab-86d3-781beb17b1a4"
+  },
+  {
+    "id": "362",
+    "name": "Elements of Book keeping",
+    "course_code": "ENT",
+    "description": "Elements of Book keeping",
+    "credit_unit": 3,
+    "image_id": "2d37fabc-aa48-466f-bd54-83c96c0f10a1"
+  },
+  {
+    "id": "363",
+    "name": "The Nigerian Entrepreneurial Environment",
+    "course_code": "ENT",
+    "description": "The Nigerian Entrepreneurial Environment",
+    "credit_unit": 2,
+    "image_id": "1fcb94c3-dc60-43f7-8afb-95c1d5aeb6d1"
+  },
+  {
+    "id": "364",
+    "name": "Basic Financial Literacy",
+    "course_code": "ENT",
+    "description": "Basic Financial Literacy",
+    "credit_unit": 3,
+    "image_id": "16723266-d8ac-4e4a-9133-04b6ff2d1436"
+  },
+  {
+    "id": "365",
+    "name": "Technology Entrepreneurship",
+    "course_code": "ENT",
+    "description": "Technology Entrepreneurship",
+    "credit_unit": 2,
+    "image_id": "9aa596b6-ae7d-4931-83e5-019fb91eebaa"
+  },
+  {
+    "id": "366",
+    "name": "Descriptive Statistics",
+    "course_code": "STA",
+    "description": "Descriptive Statistics",
+    "credit_unit": 3,
+    "image_id": "92dedb05-4538-417f-b37a-3db0a87f504b"
+  },
+  {
+    "id": "367",
+    "name": "Introduction to Problem-Solving",
+    "course_code": "COS",
+    "description": "Introduction to Problem-Solving",
+    "credit_unit": 3,
+    "image_id": "b27430a0-adb9-4ca3-bdd7-2704cf1445db"
+  },
+  {
+    "id": "368",
+    "name": "Introduction to Computing",
+    "course_code": "COS",
+    "description": "Introduction to Computing Science",
+    "credit_unit": 3,
+    "image_id": "62eba4d5-2e9f-4f17-a4f9-c7cb3ede2933"
+  },
+  {
+    "id": "369",
+    "name": "Introduction to Web Technologies",
+    "course_code": "IFT",
+    "description": "Introduction to Web Technologies",
+    "credit_unit": 2,
+    "image_id": "a2d44205-cf2b-4af4-8053-8581ae114a94"
+  },
+  {
+    "id": "385",
+    "name": "Introduction to Criminology and Security Studies",
+    "course_code": "CSS",
+    "description": "Introduction to Criminology and Security Studies",
+    "credit_unit": 3,
+    "image_id": "5e23cccd-d19f-413e-a9d3-cb394851d477"
+  },
+  {
+    "id": "386",
+    "name": "Deviant Behaviours and Social Control",
+    "course_code": "CSS",
+    "description": "Deviant Behaviours and Social Control",
+    "credit_unit": 3,
+    "image_id": "14076bb8-4e07-47c2-bc28-b961e7a5f788"
+  },
+  {
+    "id": "387",
+    "name": "Introduction to Nigerian Criminal Law",
+    "course_code": "CSS",
+    "description": "Introduction to Nigerian Criminal Law",
+    "credit_unit": 2,
+    "image_id": "bdaf9bf1-2575-4d58-8abd-234423e21e3b"
+  },
+  {
+    "id": "388",
+    "name": "Sociology of Law",
+    "course_code": "CSS",
+    "description": "Sociology of Law",
+    "credit_unit": 2,
+    "image_id": "bfc78c7a-27fb-4aaa-9cc2-dac8e815d486"
+  },
+  {
+    "id": "389",
+    "name": "Introduction to Criminology and Justice System",
+    "course_code": "CSS",
+    "description": "Introduction to Criminology and Justice System",
+    "credit_unit": 3,
+    "image_id": "cf4a4775-7645-4c4f-9de0-e1415a93d9bf"
+  },
+  {
+    "id": "390",
+    "name": "Social Sciences and Human Behaviours",
+    "course_code": "CSS",
+    "description": "Social Sciences and Human Behaviours",
+    "credit_unit": 3,
+    "image_id": "58225095-190d-4969-9310-bd1a4adcdbe3"
+  },
+  {
+    "id": "391",
+    "name": "Introduction to Sociology II",
+    "course_code": "SOC",
+    "description": "Introduction to Sociology II",
+    "credit_unit": 2,
+    "image_id": "5ead5052-5c9f-4df0-96e0-5c65850fbd5b"
+  },
+  {
+    "id": "392",
+    "name": "Introduction to Law Enforcement",
+    "course_code": "CSS",
+    "description": "Introduction to Law Enforcement",
+    "credit_unit": 2,
+    "image_id": "a619b992-2f58-45b3-bed5-5409c5035155"
+  },
+  {
+    "id": "393",
+    "name": "Theories of Crime",
+    "course_code": "CSS",
+    "description": "Theories of Crime",
+    "credit_unit": 2,
+    "image_id": "45e5c4a2-b4d6-4983-9913-458691a8f79a"
+  },
+  {
+    "id": "394",
+    "name": "Nigerian Legal System",
+    "course_code": "POL",
+    "description": "Nigerian Legal System",
+    "credit_unit": 2,
+    "image_id": "0cf9ac89-9f12-43a6-b138-3a5f2cff6964"
+  },
+  {
+    "id": "395",
+    "name": "Determinants of Behaviour",
+    "course_code": "PSY",
+    "description": "Determinants of Behaviour",
+    "credit_unit": 2,
+    "image_id": "13245e84-abdd-4235-b617-9e267d9db2f3"
+  },
+  {
+    "id": "404",
+    "name": "Environment of Business",
+    "course_code": "MBA",
+    "description": "The basic objective of the course is to examine the legal, social, political and economic framework which business organisations must operate in local and international economies or given countries.",
+    "credit_unit": 3,
+    "image_id": "2910d951-0b15-440f-a6b6-141cf43fa78b"
+  },
+  {
+    "id": "405",
+    "name": "Entrepreneurship",
+    "course_code": "MBA",
+    "description": "This course explores entrepreneurship, covering its concepts, theories, and relevance, including Schumpeterian perspectives and creative destruction. It examines entrepreneur characteristics like risk-taking and innovation, fostering critical, reflective, and creative thinking.",
+    "credit_unit": 3,
+    "image_id": "3dde5b0e-0036-415e-b86c-72551d3dae25"
+  },
+  {
+    "id": "406",
+    "name": "Information System Management",
+    "course_code": "MBA",
+    "description": "This course covers the strategic application of computers in business contexts, emphasizing the significance of Information Systems (IS).",
+    "credit_unit": 3,
+    "image_id": "eac41ff7-e2e7-481d-8724-ee40fd4832e0"
+  },
+  {
+    "id": "407",
+    "name": "Organisational Behaviour",
+    "course_code": "MBA",
+    "description": "This course provides a comprehensive exploration of vital theories and concepts essential for navigating corporate and managerial challenges within an Anglophone context.",
+    "credit_unit": 3,
+    "image_id": "5dac2439-cc25-4532-81a5-61cc67f0b782"
+  },
+  {
+    "id": "408",
+    "name": "Introduction to General Management",
+    "course_code": "MBA",
+    "description": "This course offers an in-depth exploration of the evolution of management thought, tracing the historical development of key concepts and theories.",
+    "credit_unit": 3,
+    "image_id": "805cc0d6-8a6f-4bc5-85df-d3caf5ba24da"
+  },
+  {
+    "id": "409",
+    "name": "Operations Management",
+    "course_code": "MBA",
+    "description": "This course covers the intricacies of operations strategy, process analysis, and the utilization of both data and managerial insights to craft effective solutions to case-based challenges.",
+    "credit_unit": 3,
+    "image_id": "406b3530-cce1-487e-9108-3c1895133783"
+  },
+  {
+    "id": "417",
+    "name": "Fundamentals of Public Health",
+    "course_code": "PHS",
+    "description": "Fundamentals of Public Health",
+    "credit_unit": 2,
+    "image_id": "51cf1aa6-e957-4715-9abd-eec657647141"
+  },
+  {
+    "id": "418",
+    "name": "Introduction to Public Health Informatics ",
+    "course_code": "PHS",
+    "description": "Introduction to Public Health Informatics ",
+    "credit_unit": 2,
+    "image_id": "47bd1e65-5c8c-46cc-8e97-3fb7670f3343"
+  },
+  {
+    "id": "419",
+    "name": "Introduction to Sociology",
+    "course_code": "PAD",
+    "description": "Introduction to Sociology at Miva Open University offers a comprehensive exploration of fundamental sociological concepts. Gain a unique perspective on human societies, develop critical thinking skills, and understand the principles of sociological analysis. Support systems are available for student success.\n",
+    "credit_unit": 3,
+    "image_id": "28ba5cc3-9aaf-4396-a9ec-42cf7bd3338b"
+  },
+  {
+    "id": "420",
+    "name": "Introduction to Psychology",
+    "course_code": "PAD",
+    "description": "This is a foundational course that provides a comprehensive overview of the scientific study of human behaviour and mental processes. This course will introduce you to the fundamental concepts, theories, and methods used in psychology.",
+    "credit_unit": 3,
+    "image_id": "6a47b813-559b-401c-9c8d-16aabeb205bb"
+  },
+  {
+    "id": "421",
+    "name": "Structure of the Nigerian Economy",
+    "course_code": "PAD",
+    "description": "",
+    "credit_unit": 2,
+    "image_id": "7957965e-979a-427d-8906-2aeede3b788c"
+  },
+  {
+    "id": "422",
+    "name": "Introductory Statistics I",
+    "course_code": "ECO",
+    "description": "Introductory Statistics 1 provides a foundational understanding of statistics and its practical applications. The course covers key concepts such as probability theory, random variables, sampling, hypothesis testing, and various statistical techniques. ",
+    "credit_unit": 3,
+    "image_id": "496bbb77-71f0-4604-9b95-989305edd710"
+  },
+  {
+    "id": "423",
+    "name": "Introduction to Statistics II",
+    "course_code": "ECO",
+    "description": "This course provides you with a comprehensive introduction to the field of statistics, covering its various components and applications. You will explore the fundamental principles and methods used in statistical analysis, enabling you to make informed decisions and draw meaningful conclusions from data and also delve into exploratory data analysis, learning how to use descriptive statistical tools to summarise, visualise, and interpret data.",
+    "credit_unit": 3,
+    "image_id": "02f55c4f-6b56-4eb4-93ad-588bf29d2f75"
+  },
+  {
+    "id": "424",
+    "name": "Statistical Computing Inference and Modelling",
+    "course_code": "CSC",
+    "description": "",
+    "credit_unit": 3
+  },
+  {
+    "id": "435",
+    "name": "Introduction to Human Communication",
+    "course_code": "CMS",
+    "description": "Introduction to Human Communication",
+    "credit_unit": 2,
+    "image_id": "a658f612-630a-4474-b4b3-a59f48662797"
+  },
+  {
+    "id": "436",
+    "name": "Foundations of Broadcasting and Film",
+    "course_code": "MCM",
+    "description": "Foundations of Broadcasting and Film",
+    "credit_unit": 3,
+    "image_id": "cafb4e81-60ca-4528-8b3e-e21d6bde0ac6"
+  },
+  {
+    "id": "437",
+    "name": "Introduction to Advertising",
+    "course_code": "MCM",
+    "description": "Introduction to Advertising",
+    "credit_unit": 2,
+    "image_id": "4eab71a2-ea93-47f9-815b-cf4b1e46bb54"
+  },
+  {
+    "id": "438",
+    "name": "Introduction to Book Publishing",
+    "course_code": "MCM",
+    "description": "Introduction to Book Publishing",
+    "credit_unit": 2,
+    "image_id": "76b3e44b-6900-44f1-8856-20cccadfc61d"
+  },
+  {
+    "id": "439",
+    "name": "Introduction to Photojournalism",
+    "course_code": "MCM",
+    "description": "Introduction to Photojournalism",
+    "credit_unit": 2,
+    "image_id": "bb606f70-71a4-4965-a4e1-0125c1db3ed2"
+  },
+  {
+    "id": "440",
+    "name": "History and Development of Mass Communication",
+    "course_code": "MCM",
+    "description": "History and Development of Mass Communication",
+    "credit_unit": 2,
+    "image_id": "22dbba55-0182-4761-a180-352e856a7b39"
+  },
+  {
+    "id": "441",
+    "name": "Principles of Hardware Systems Maintenance",
+    "course_code": "IFT",
+    "description": "Principles of Hardware Systems Maintenance",
+    "credit_unit": 3
+  },
+  {
+    "id": "442",
+    "name": "Pharmacodynamics and Chemotherapy I",
+    "course_code": "PHA",
+    "description": "Pharmacodynamics and Chemotherapy I",
+    "credit_unit": 2
+  },
+  {
+    "id": "443",
+    "name": "Epidemiology",
+    "course_code": "NSC",
+    "description": "Epidemiology",
+    "credit_unit": 1
+  },
+  {
+    "id": "444",
+    "name": "Community/Public Health Nursing I",
+    "course_code": "NSC",
+    "description": "Community/Public Health Nursing I",
+    "credit_unit": 2
+  },
+  {
+    "id": "445",
+    "name": "Human Nutrition",
+    "course_code": "NSC",
+    "description": "Human Nutrition",
+    "credit_unit": 2
+  },
+  {
+    "id": "446",
+    "name": "Nursing Ethics and Jurisprudence",
+    "course_code": "NSC",
+    "description": "Nursing Ethics and Jurisprudence",
+    "credit_unit": 2
+  },
+  {
+    "id": "447",
+    "name": "Medical-Surgical Nursing I",
+    "course_code": "NSC",
+    "description": "Medical-Surgical Nursing I",
+    "credit_unit": 2
+  },
+  {
+    "id": "448",
+    "name": "Oncology Nursing",
+    "course_code": "NSC",
+    "description": "Oncology Nursing",
+    "credit_unit": 2
+  },
+  {
+    "id": "449",
+    "name": "Family Health Nursing",
+    "course_code": "NSC",
+    "description": "Family Health Nursing",
+    "credit_unit": 2
+  },
+  {
+    "id": "450",
+    "name": "Public Health Microbiology \u0026 Parasitology/Entomology",
+    "course_code": "PHS",
+    "description": "Public Health Microbiology \u0026 Parasitology/Entomology",
+    "credit_unit": 2
+  },
+  {
+    "id": "451",
+    "name": "Linear Algebra for Data Science",
+    "course_code": "DTS",
+    "description": "Linear Algebra for Data Science",
+    "credit_unit": 2
+  },
+  {
+    "id": "462",
+    "name": "Public Policy Analysis",
+    "course_code": "PAD",
+    "description": "",
+    "credit_unit": 3,
+    "image_id": "3c0988e6-b3be-4cf7-bf5e-a84552af89fe"
+  },
+  {
+    "id": "463",
+    "name": "Organisational Theory and Behaviour",
+    "course_code": "PAD",
+    "description": "",
+    "credit_unit": 3,
+    "image_id": "6a0b5cfe-cbc1-42db-bfd0-6e8b6f9b545b"
+  },
+  {
+    "id": "464",
+    "name": "Public Personnel Management",
+    "course_code": "PAD",
+    "description": "",
+    "credit_unit": 3,
+    "image_id": "6d023550-aaa8-4cf5-8170-463cd3153d22"
+  },
+  {
+    "id": "465",
+    "name": "Public Financial Management",
+    "course_code": "PAD",
+    "description": "",
+    "credit_unit": 3,
+    "image_id": "d01dcbf9-d97a-4859-98fc-6ac0bb0c428f"
+  },
+  {
+    "id": "466",
+    "name": "Research Methodology",
+    "course_code": "PAD",
+    "description": "",
+    "credit_unit": 3,
+    "image_id": "647014bc-c95f-4fc7-9f99-d1ed0d927b7a"
+  },
+  {
+    "id": "467",
+    "name": "Project Management",
+    "course_code": "PAD",
+    "description": "",
+    "credit_unit": 2,
+    "image_id": "c4164737-7e11-4d9d-a0ec-e9953da05836"
+  },
+  {
+    "id": "470",
+    "name": "Introduction to  Information Technology",
+    "course_code": "IFT",
+    "description": "",
+    "credit_unit": 2
+  },
+  {
+    "id": "471",
+    "name": "Introduction to Information Systems for Information Technology",
+    "course_code": "IFT",
+    "description": "",
+    "credit_unit": 2
+  },
+  {
+    "id": "472",
+    "name": "Introduction to Entrepreneurial Financing",
+    "course_code": "ENT",
+    "description": "",
+    "credit_unit": 1
+  },
+  {
+    "id": "473",
+    "name": "Entrepreneurial Marketing",
+    "course_code": "ENT",
+    "description": "",
+    "credit_unit": 2
+  },
+  {
+    "id": "474",
+    "name": "Theories of Entrepreneurship",
+    "course_code": "ENT",
+    "description": "",
+    "credit_unit": 2
+  },
+  {
+    "id": "475",
+    "name": "New Media Studies for Entrepreneurs",
+    "course_code": "ENT",
+    "description": "",
+    "credit_unit": 3
+  },
+  {
+    "id": "476",
+    "name": "Principles of Sustainable Development",
+    "course_code": "ENT",
+    "description": "",
+    "credit_unit": 3
+  },
+  {
+    "id": "477",
+    "name": "Business Communication Skills for Entrepreneurs",
+    "course_code": "ENT",
+    "description": "",
+    "credit_unit": 2
+  },
+  {
+    "id": "478",
+    "name": "Nigerian Law Enforcement and Security System",
+    "course_code": "CSS",
+    "description": "",
+    "credit_unit": 2
+  },
+  {
+    "id": "479",
+    "name": "Comparative Police and Policing Systems",
+    "course_code": "CSS",
+    "description": "",
+    "credit_unit": 2
+  },
+  {
+    "id": "480",
+    "name": "Human Rights and Criminal Justice System",
+    "course_code": "CSS",
+    "description": "",
+    "credit_unit": 2
+  },
+  {
+    "id": "481",
+    "name": "Prisons and Correctional Services",
+    "course_code": "CSS",
+    "description": "",
+    "credit_unit": 2
+  },
+  {
+    "id": "482",
+    "name": "Sociology of Crime and Juvenile Delinquency",
+    "course_code": "CSS",
+    "description": "",
+    "credit_unit": 3
+  },
+  {
+    "id": "483",
+    "name": "Cybercrime, Law and Countermeasures for Criminology ",
+    "course_code": "CSS",
+    "description": "",
+    "credit_unit": 2
+  }
+]

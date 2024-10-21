@@ -1,0 +1,48 @@
+[
+  {
+    "Name": "Default Course Result Template",
+    "Description": "Default Course Result Template",
+    "MarkFormart": 0,
+    "ResultTemplateType": "course.result.template.type.results",
+    "ResultConfiguration": [
+      {
+        "fromPoints": 45,
+        "id": "09110567-c8cf-4926-a1c2-9096a4adafb5",
+        "resultTypeKey": "course.result.type.passed",
+        "toPoints": 49
+      },
+      {
+        "fromPoints": 0,
+        "id": "e002ddbd-f00f-4fc3-aa80-a27ac33b957d",
+        "resultTypeKey": "course.result.type.failed",
+        "toPoints": 39
+      },
+      {
+        "fromPoints": 50,
+        "id": "c488daa5-b613-4a87-9aad-d8ceda5f62b0",
+        "resultTypeKey": "course.result.type.competent",
+        "toPoints": 59
+      },
+      {
+        "fromPoints": 40,
+        "id": "10d80fb7-c956-4d78-a6fa-ed5fe1410a71",
+        "resultTypeKey": "course.result.type.reeval",
+        "toPoints": 44
+      },
+      {
+        "fromPoints": 70,
+        "id": "5c082c11-7d8a-45c1-b54a-e95a56fc219e",
+        "resultTypeKey": "course.result.type.distinction",
+        "toPoints": 100
+      },
+      {
+        "fromPoints": 60,
+        "id": "b1a97791-6b94-467d-8a0f-649184e6eb67",
+        "resultTypeKey": "course.result.type.distinction",
+        "toPoints": 69
+      }
+    ],
+    "CreatedAt": "2022-11-10T13:05:47Z",
+    "UpdatedAt": "faith.adekogbe@miva.university"
+  }
+]

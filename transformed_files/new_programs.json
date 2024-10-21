@@ -1,0 +1,552 @@
+[
+  {
+    "Id": "",
+    "Name": "BSc. Economics",
+    "ShortName": "BSc. Economics",
+    "Duration": "",
+    "DurationUnit": "",
+    "FacultyID": "",
+    "MinimumDuration": "4",
+    "Maximumduration": "4",
+    "ProgrammeType": "program.type.degree",
+    "Image": "1ead5a42-3536-4377-a765-dc0298b0eea7",
+    "Description": "A four-year degree programme that provides students with skills to solve economic problems.",
+    "CreatedAt": "",
+    "UpdateAt": "2024-07-22T13:42:30Z",
+    "Level": [
+      {
+        "Id": "104",
+        "LevelNumber": "1"
+      },
+      {
+        "Id": "105",
+        "LevelNumber": "2"
+      },
+      {
+        "Id": "106",
+        "LevelNumber": "3"
+      },
+      {
+        "Id": "107",
+        "LevelNumber": "4"
+      }
+    ],
+    "ProgrammeCode": "BSc."
+  },
+  {
+    "Id": "",
+    "Name": "BSc. Software Engineering",
+    "ShortName": "BSc. Software Engineering",
+    "Duration": "",
+    "DurationUnit": "",
+    "FacultyID": "",
+    "MinimumDuration": "4",
+    "Maximumduration": "0",
+    "ProgrammeType": "program.type.degree",
+    "Image": "9c7dac90-a26e-40e7-a7da-7dfc1ee556dd",
+    "Description": "A four- year degree programme that prepares students for a career in designing software systems.\n\n",
+    "CreatedAt": "",
+    "UpdateAt": "2024-07-22T13:43:31Z",
+    "Level": [
+      {
+        "Id": "136",
+        "LevelNumber": "1"
+      },
+      {
+        "Id": "147",
+        "LevelNumber": "2"
+      },
+      {
+        "Id": "148",
+        "LevelNumber": "3"
+      },
+      {
+        "Id": "149",
+        "LevelNumber": "4"
+      }
+    ],
+    "ProgrammeCode": "BSc."
+  },
+  {
+    "Id": "",
+    "Name": "BSc. Business Management",
+    "ShortName": "BSc. Business Management",
+    "Duration": "",
+    "DurationUnit": "",
+    "FacultyID": "",
+    "MinimumDuration": "4",
+    "Maximumduration": "0",
+    "ProgrammeType": "program.type.degree",
+    "Image": "c59fe3d7-bcec-406c-8aab-29bbe7fbce4b",
+    "Description": "Four-year business management degree that prepares students for diverse careers.\n",
+    "CreatedAt": "",
+    "UpdateAt": "2024-07-22T08:41:32Z",
+    "Level": [
+      {
+        "Id": "138",
+        "LevelNumber": "1"
+      },
+      {
+        "Id": "139",
+        "LevelNumber": "2"
+      },
+      {
+        "Id": "140",
+        "LevelNumber": "3"
+      },
+      {
+        "Id": "141",
+        "LevelNumber": "4"
+      }
+    ],
+    "ProgrammeCode": "BSc."
+  },
+  {
+    "Id": "",
+    "Name": "BSc. Data Science",
+    "ShortName": "BSc. Data Science",
+    "Duration": "",
+    "DurationUnit": "",
+    "FacultyID": "",
+    "MinimumDuration": "4",
+    "Maximumduration": "0",
+    "ProgrammeType": "program.type.degree",
+    "Image": "2a541195-4aed-4050-bcbe-20a8db9f9f35",
+    "Description": "A four-year degree programme that provides students with excellent skills for  big data roles.",
+    "CreatedAt": "",
+    "UpdateAt": "2024-07-22T13:42:24Z",
+    "Level": [
+      {
+        "Id": "143",
+        "LevelNumber": "1"
+      },
+      {
+        "Id": "144",
+        "LevelNumber": "2"
+      },
+      {
+        "Id": "145",
+        "LevelNumber": "3"
+      },
+      {
+        "Id": "146",
+        "LevelNumber": "4"
+      }
+    ],
+    "ProgrammeCode": "BSc."
+  },
+  {
+    "Id": "",
+    "Name": "BSc. Public Policy and Administration",
+    "ShortName": "BSc. Public Policy and Administration ",
+    "Duration": "",
+    "DurationUnit": "",
+    "FacultyID": "",
+    "MinimumDuration": "4",
+    "Maximumduration": "0",
+    "ProgrammeType": "program.type.degree",
+    "Image": "551678bf-3e82-48e3-8225-0ca0690272ad",
+    "Description": "A four-year degree program that transforms students into policy leaders.",
+    "CreatedAt": "",
+    "UpdateAt": "2024-07-22T13:43:13Z",
+    "Level": [
+      {
+        "Id": "151",
+        "LevelNumber": "1"
+      },
+      {
+        "Id": "152",
+        "LevelNumber": "2"
+      },
+      {
+        "Id": "153",
+        "LevelNumber": "3"
+      },
+      {
+        "Id": "154",
+        "LevelNumber": "4"
+      }
+    ],
+    "ProgrammeCode": "BSc."
+  },
+  {
+    "Id": "",
+    "Name": "BSc. Cybersecurity",
+    "ShortName": "BSc. Cybersecurity",
+    "Duration": "",
+    "DurationUnit": "",
+    "FacultyID": "",
+    "MinimumDuration": "4",
+    "Maximumduration": "0",
+    "ProgrammeType": "program.type.degree",
+    "Image": "7160895a-e55b-4726-81c8-3a92b9d3910b",
+    "Description": "A four-year degree programme that prepares students to safeguard digital systems.",
+    "CreatedAt": "",
+    "UpdateAt": "2024-07-22T13:42:09Z",
+    "Level": [
+      {
+        "Id": "156",
+        "LevelNumber": "1"
+      },
+      {
+        "Id": "157",
+        "LevelNumber": "2"
+      },
+      {
+        "Id": "158",
+        "LevelNumber": "3"
+      },
+      {
+        "Id": "159",
+        "LevelNumber": "4"
+      }
+    ],
+    "ProgrammeCode": "BSc."
+  },
+  {
+    "Id": "",
+    "Name": "BSc. Accounting",
+    "ShortName": "BSc. Accounting ",
+    "Duration": "",
+    "DurationUnit": "",
+    "FacultyID": "",
+    "MinimumDuration": "4",
+    "Maximumduration": "0",
+    "ProgrammeType": "program.type.degree",
+    "Image": "68aa811f-e681-46f4-adb8-91b59a29f0d1",
+    "Description": "Four-year degree programme that prepares students for careers in financial management.",
+    "CreatedAt": "",
+    "UpdateAt": "2024-07-22T13:41:40Z",
+    "Level": [
+      {
+        "Id": "161",
+        "LevelNumber": "1"
+      },
+      {
+        "Id": "162",
+        "LevelNumber": "2"
+      },
+      {
+        "Id": "163",
+        "LevelNumber": "3"
+      },
+      {
+        "Id": "164",
+        "LevelNumber": "4"
+      }
+    ],
+    "ProgrammeCode": "BSc."
+  },
+  {
+    "Id": "",
+    "Name": "BSc. Computer Science",
+    "ShortName": "BSc. Computer Science",
+    "Duration": "",
+    "DurationUnit": "",
+    "FacultyID": "",
+    "MinimumDuration": "4",
+    "Maximumduration": "0",
+    "ProgrammeType": "program.type.degree",
+    "Image": "41caebd5-e3e3-48cd-8bbb-6652e10dede0",
+    "Description": "A four-year degree programme that prepares students for technological innovations.",
+    "CreatedAt": "",
+    "UpdateAt": "2024-07-22T13:41:50Z",
+    "Level": [
+      {
+        "Id": "166",
+        "LevelNumber": "1"
+      },
+      {
+        "Id": "167",
+        "LevelNumber": "2"
+      },
+      {
+        "Id": "168",
+        "LevelNumber": "3"
+      },
+      {
+        "Id": "169",
+        "LevelNumber": "4"
+      }
+    ],
+    "ProgrammeCode": "BSc."
+  },
+  {
+    "Id": "",
+    "Name": "B.NSc. Nursing Science",
+    "ShortName": "B.NSc. Nursing Science",
+    "Duration": "",
+    "DurationUnit": "",
+    "FacultyID": "",
+    "MinimumDuration": "5",
+    "Maximumduration": "0",
+    "ProgrammeType": "program.type.degree",
+    "Image": "8c5a7d4f-2bc2-451c-be1a-53f88c4e39d7",
+    "Description": "At the heart of healthcare, nursing plays a vital role in patient care and well-being. Our Nursing Science department is dedicated to training compassionate, skilled, and competent nurses who are prepared to excel in a variety of healthcare settings. We provide a rigorous curriculum that combines theoretical knowledge with hands-on clinical experiences, ensuring that our graduates are well-prepared for the demands of the healthcare field. ",
+    "CreatedAt": "",
+    "UpdateAt": "2024-09-22T05:57:49Z",
+    "Level": [
+      {
+        "Id": "206",
+        "LevelNumber": "1"
+      },
+      {
+        "Id": "207",
+        "LevelNumber": "2"
+      },
+      {
+        "Id": "208",
+        "LevelNumber": "3"
+      },
+      {
+        "Id": "209",
+        "LevelNumber": "4"
+      },
+      {
+        "Id": "252",
+        "LevelNumber": "5"
+      }
+    ],
+    "ProgrammeCode": "BN.Sc"
+  },
+  {
+    "Id": "",
+    "Name": "BSc. Public Health",
+    "ShortName": "BSc. Public Health",
+    "Duration": "",
+    "DurationUnit": "",
+    "FacultyID": "",
+    "MinimumDuration": "4",
+    "Maximumduration": "0",
+    "ProgrammeType": "program.type.degree",
+    "Image": "89c1b059-c0b5-47c4-b434-678c34c35033",
+    "Description": "A BSc. in Public Health equips students to address community health needs, emphasizing prevention, epidemiology, and healthcare policy.",
+    "CreatedAt": "",
+    "UpdateAt": "2024-07-22T13:43:03Z",
+    "Level": [
+      {
+        "Id": "218",
+        "LevelNumber": "1"
+      },
+      {
+        "Id": "219",
+        "LevelNumber": "2"
+      },
+      {
+        "Id": "220",
+        "LevelNumber": "3"
+      },
+      {
+        "Id": "221",
+        "LevelNumber": "4"
+      }
+    ],
+    "ProgrammeCode": "BSc."
+  },
+  {
+    "Id": "",
+    "Name": "BSc. Entrepreneurship",
+    "ShortName": "BSc. Entrepreneurship",
+    "Duration": "",
+    "DurationUnit": "",
+    "FacultyID": "",
+    "MinimumDuration": "4",
+    "Maximumduration": "0",
+    "ProgrammeType": "program.type.degree",
+    "Image": "76ffbc5c-4446-40d5-979b-21b8b8d330e6",
+    "Description": "Our Entrepreneurship undergraduate programme is a dynamic initiative within various educational landscapes, strategically designed to cultivate and nurture an entrepreneurial mindset among our students. Departing from the conventional job-seeking approach, our programme endeavours to instill a proactive job creation mentality.",
+    "CreatedAt": "",
+    "UpdateAt": "2024-07-22T13:42:38Z",
+    "Level": [
+      {
+        "Id": "350",
+        "LevelNumber": "1"
+      },
+      {
+        "Id": "351",
+        "LevelNumber": "2"
+      },
+      {
+        "Id": "352",
+        "LevelNumber": "3"
+      },
+      {
+        "Id": "353",
+        "LevelNumber": "4"
+      }
+    ],
+    "ProgrammeCode": "BSc."
+  },
+  {
+    "Id": "",
+    "Name": "BSc. Information Technology ",
+    "ShortName": "BSc. Information Technology ",
+    "Duration": "",
+    "DurationUnit": "",
+    "FacultyID": "",
+    "MinimumDuration": "4",
+    "Maximumduration": "0",
+    "ProgrammeType": "program.type.degree",
+    "Image": "8626ff13-8bed-4f8e-ba78-93b334a54246",
+    "Description": "Our Bachelor of Science (BSc.) programme in Information Technology (IT) is designed to meet the growing demand for skilled professionals in this rapidly evolving field. In today's digital landscape, organisations across various industries heavily rely on IT for their operations, making it imperative to have a workforce capable of managing and securing information systems effectively.",
+    "CreatedAt": "",
+    "UpdateAt": "2024-07-22T13:42:45Z",
+    "Level": [
+      {
+        "Id": "355",
+        "LevelNumber": "1"
+      },
+      {
+        "Id": "356",
+        "LevelNumber": "2"
+      },
+      {
+        "Id": "357",
+        "LevelNumber": "3"
+      },
+      {
+        "Id": "358",
+        "LevelNumber": "4"
+      }
+    ],
+    "ProgrammeCode": "BSc."
+  },
+  {
+    "Id": "",
+    "Name": "BSc. Criminology and Security Studies",
+    "ShortName": "BSc. Criminology and Security Studies",
+    "Duration": "",
+    "DurationUnit": "",
+    "FacultyID": "",
+    "MinimumDuration": "4",
+    "Maximumduration": "0",
+    "ProgrammeType": "program.type.degree",
+    "Image": "372e2ee0-d4c8-4834-8f92-b684dc560b72",
+    "Description": "The Criminology and Security Studies (CSS) programme investigates the basis of social order by drawing on and integrating theories and methods for explaining human behaviours in several social science disciplines.",
+    "CreatedAt": "",
+    "UpdateAt": "2024-07-22T13:42:00Z",
+    "Level": [
+      {
+        "Id": "381",
+        "LevelNumber": "1"
+      },
+      {
+        "Id": "382",
+        "LevelNumber": "2"
+      },
+      {
+        "Id": "383",
+        "LevelNumber": "3"
+      },
+      {
+        "Id": "384",
+        "LevelNumber": "4"
+      }
+    ],
+    "ProgrammeCode": "BSc."
+  },
+  {
+    "Id": "",
+    "Name": "Master of Business Administration (MBA)",
+    "ShortName": "Master of Business Administration (MBA)",
+    "Duration": "",
+    "DurationUnit": "",
+    "FacultyID": "",
+    "MinimumDuration": "18",
+    "Maximumduration": "0",
+    "ProgrammeType": "program.type.degree",
+    "Image": "81050cb5-eeef-4813-9802-da506f303ca8",
+    "Description": "The Master of Business Administration (MBA) programme at Miva Open University is meticulously designed to equip future business leaders with the skills and insights needed to excel in today's rapidly evolving job economy, heavily influenced by technological advancements.",
+    "CreatedAt": "",
+    "UpdateAt": "2024-07-22T13:45:04Z",
+    "Level": [
+      {
+        "Id": "414",
+        "LevelNumber": "1"
+      }
+    ],
+    "ProgrammeCode": "MBA"
+  },
+  {
+    "Id": "",
+    "Name": "BSc. Mass Communication and Media Studies",
+    "ShortName": "BSc. Mass Communication and Media Studies",
+    "Duration": "",
+    "DurationUnit": "",
+    "FacultyID": "",
+    "MinimumDuration": "4",
+    "Maximumduration": "0",
+    "ProgrammeType": "program.type.degree",
+    "Image": "22b88162-3e31-4b49-a335-fddc6e073655",
+    "Description": "Mass communication and Media Studies is an excitingly dynamic field that channels multiple interests and talents into one discipline, which can be applied to virtually every aspect of personal and professional life.",
+    "CreatedAt": "",
+    "UpdateAt": "2024-07-22T13:42:53Z",
+    "Level": [
+      {
+        "Id": "426",
+        "LevelNumber": "1"
+      },
+      {
+        "Id": "427",
+        "LevelNumber": "2"
+      },
+      {
+        "Id": "428",
+        "LevelNumber": "3"
+      },
+      {
+        "Id": "429",
+        "LevelNumber": "4"
+      }
+    ],
+    "ProgrammeCode": "BSc."
+  },
+  {
+    "Id": "",
+    "Name": "BSc. Testing",
+    "ShortName": "BSc. Testing",
+    "Duration": "",
+    "DurationUnit": "",
+    "FacultyID": "",
+    "MinimumDuration": "0",
+    "Maximumduration": "0",
+    "ProgrammeType": "program.type.degree",
+    "Image": "",
+    "Description": "Testing do not use",
+    "CreatedAt": "",
+    "UpdateAt": "2024-09-22T06:39:27Z",
+    "Level": [
+      {
+        "Id": "455",
+        "LevelNumber": "1"
+      },
+      {
+        "Id": "456",
+        "LevelNumber": "2"
+      }
+    ],
+    "ProgrammeCode": "BSc."
+  },
+  {
+    "Id": "",
+    "Name": "Master of Public Administration (MPA)",
+    "ShortName": "Master of Public Administration (MPA)",
+    "Duration": "",
+    "DurationUnit": "",
+    "FacultyID": "",
+    "MinimumDuration": "18",
+    "Maximumduration": "0",
+    "ProgrammeType": "program.type.degree",
+    "Image": "003771d5-0c92-44aa-a18e-e323c087271d",
+    "Description": "The Master of Public Administration (MPA) at Miva Open University is designed to equip future leaders with the knowledge and skills to address complex societal challenges and drive impactful solutions in government, multilateral institutions, and the non-profit sector.",
+    "CreatedAt": "",
+    "UpdateAt": "2024-10-05T23:43:08Z",
+    "Level": [
+      {
+        "Id": "461",
+        "LevelNumber": "1"
+      }
+    ],
+    "ProgrammeCode": "MPA"
+  }
+]

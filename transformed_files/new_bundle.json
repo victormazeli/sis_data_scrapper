@@ -1,0 +1,2743 @@
+[
+  {
+    "id": "108",
+    "name": "Economics Courses",
+    "programme_id": "103",
+    "bundle_levels": [
+      {
+        "id": "110",
+        "programme_level_id": "105",
+        "credit_required": 32,
+        "module_groups": [
+          {
+            "id": "34",
+            "group_name": "First Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 7,
+            "module_options": [
+              {
+                "id": "294",
+                "course_id": "297"
+              },
+              {
+                "id": "296",
+                "course_id": "299"
+              },
+              {
+                "id": "291",
+                "course_id": "236"
+              },
+              {
+                "id": "292",
+                "course_id": "289"
+              },
+              {
+                "id": "293",
+                "course_id": "293"
+              },
+              {
+                "id": "295",
+                "course_id": "298"
+              },
+              {
+                "id": "298",
+                "course_id": "303"
+              }
+            ]
+          },
+          {
+            "id": "35",
+            "group_name": "Second Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 7,
+            "module_options": [
+              {
+                "id": "299",
+                "course_id": "237"
+              },
+              {
+                "id": "305",
+                "course_id": "309"
+              },
+              {
+                "id": "304",
+                "course_id": "308"
+              },
+              {
+                "id": "300",
+                "course_id": "305"
+              },
+              {
+                "id": "301",
+                "course_id": "290"
+              },
+              {
+                "id": "303",
+                "course_id": "306"
+              },
+              {
+                "id": "302",
+                "course_id": "295"
+              }
+            ]
+          },
+          {
+            "id": "58",
+            "group_name": "Second Semester Courses",
+            "group_type": "bundle.group.type.elective",
+            "number_of_courses": 1,
+            "module_options": [
+              {
+                "id": "448",
+                "course_id": "301"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "112",
+        "programme_level_id": "107",
+        "credit_required": 15,
+        "module_groups": null
+      },
+      {
+        "id": "109",
+        "programme_level_id": "104",
+        "credit_required": 20,
+        "module_groups": [
+          {
+            "id": "4",
+            "group_name": "Core Group",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 19,
+            "module_options": [
+              {
+                "id": "10",
+                "course_id": "102"
+              },
+              {
+                "id": "30",
+                "course_id": "117"
+              },
+              {
+                "id": "224",
+                "course_id": "263"
+              },
+              {
+                "id": "447",
+                "course_id": "130"
+              },
+              {
+                "id": "219",
+                "course_id": "257"
+              },
+              {
+                "id": "9",
+                "course_id": "101"
+              },
+              {
+                "id": "482",
+                "course_id": "423"
+              },
+              {
+                "id": "31",
+                "course_id": "122"
+              },
+              {
+                "id": "481",
+                "course_id": "422"
+              },
+              {
+                "id": "222",
+                "course_id": "222"
+              },
+              {
+                "id": "221",
+                "course_id": "261"
+              },
+              {
+                "id": "29",
+                "course_id": "121"
+              },
+              {
+                "id": "89",
+                "course_id": "120"
+              },
+              {
+                "id": "507",
+                "course_id": "368"
+              },
+              {
+                "id": "28",
+                "course_id": "124"
+              },
+              {
+                "id": "220",
+                "course_id": "262"
+              },
+              {
+                "id": "32",
+                "course_id": "133"
+              },
+              {
+                "id": "228",
+                "course_id": "264"
+              },
+              {
+                "id": "223",
+                "course_id": "256"
+              }
+            ]
+          },
+          {
+            "id": "9",
+            "group_name": "Elective Group",
+            "group_type": "bundle.group.type.elective",
+            "number_of_courses": 2,
+            "module_options": [
+              {
+                "id": "83",
+                "course_id": "116"
+              },
+              {
+                "id": "82",
+                "course_id": "119"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "111",
+        "programme_level_id": "106",
+        "credit_required": 15,
+        "module_groups": null
+      }
+    ]
+  },
+  {
+    "id": "190",
+    "name": "Software Engineering Courses",
+    "programme_id": "135",
+    "bundle_levels": [
+      {
+        "id": "192",
+        "programme_level_id": "147",
+        "credit_required": 34,
+        "module_groups": [
+          {
+            "id": "41",
+            "group_name": "First Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 8,
+            "module_options": [
+              {
+                "id": "332",
+                "course_id": "287"
+              },
+              {
+                "id": "338",
+                "course_id": "307"
+              },
+              {
+                "id": "333",
+                "course_id": "267"
+              },
+              {
+                "id": "335",
+                "course_id": "269"
+              },
+              {
+                "id": "336",
+                "course_id": "304"
+              },
+              {
+                "id": "488",
+                "course_id": "345"
+              },
+              {
+                "id": "334",
+                "course_id": "271"
+              },
+              {
+                "id": "337",
+                "course_id": "236"
+              }
+            ]
+          },
+          {
+            "id": "42",
+            "group_name": "Second Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 5,
+            "module_options": [
+              {
+                "id": "342",
+                "course_id": "281"
+              },
+              {
+                "id": "341",
+                "course_id": "276"
+              },
+              {
+                "id": "340",
+                "course_id": "310"
+              },
+              {
+                "id": "339",
+                "course_id": "237"
+              },
+              {
+                "id": "343",
+                "course_id": "278"
+              }
+            ]
+          },
+          {
+            "id": "43",
+            "group_name": "Second Semester Courses",
+            "group_type": "bundle.group.type.elective",
+            "number_of_courses": 2,
+            "module_options": [
+              {
+                "id": "347",
+                "course_id": "317"
+              },
+              {
+                "id": "348",
+                "course_id": "320"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "191",
+        "programme_level_id": "136",
+        "credit_required": 17,
+        "module_groups": [
+          {
+            "id": "11",
+            "group_name": "Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 18,
+            "module_options": [
+              {
+                "id": "41",
+                "course_id": "102"
+              },
+              {
+                "id": "214",
+                "course_id": "231"
+              },
+              {
+                "id": "232",
+                "course_id": "264"
+              },
+              {
+                "id": "213",
+                "course_id": "255"
+              },
+              {
+                "id": "217",
+                "course_id": "222"
+              },
+              {
+                "id": "215",
+                "course_id": "232"
+              },
+              {
+                "id": "43",
+                "course_id": "114"
+              },
+              {
+                "id": "487",
+                "course_id": "366"
+              },
+              {
+                "id": "516",
+                "course_id": "367"
+              },
+              {
+                "id": "44",
+                "course_id": "118"
+              },
+              {
+                "id": "509",
+                "course_id": "368"
+              },
+              {
+                "id": "42",
+                "course_id": "131"
+              },
+              {
+                "id": "45",
+                "course_id": "117"
+              },
+              {
+                "id": "46",
+                "course_id": "120"
+              },
+              {
+                "id": "216",
+                "course_id": "258"
+              },
+              {
+                "id": "78",
+                "course_id": "121"
+              },
+              {
+                "id": "212",
+                "course_id": "254"
+              },
+              {
+                "id": "218",
+                "course_id": "256"
+              }
+            ]
+          },
+          {
+            "id": "62",
+            "group_name": "Courses",
+            "group_type": "bundle.group.type.elective",
+            "number_of_courses": 2,
+            "module_options": [
+              {
+                "id": "513",
+                "course_id": "116"
+              },
+              {
+                "id": "512",
+                "course_id": "119"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "193",
+        "programme_level_id": "148",
+        "credit_required": 15,
+        "module_groups": null
+      },
+      {
+        "id": "194",
+        "programme_level_id": "149",
+        "credit_required": 15,
+        "module_groups": null
+      }
+    ]
+  },
+  {
+    "id": "170",
+    "name": "Business Management Courses",
+    "programme_id": "137",
+    "bundle_levels": [
+      {
+        "id": "171",
+        "programme_level_id": "138",
+        "credit_required": 19,
+        "module_groups": [
+          {
+            "id": "5",
+            "group_name": "Core Group",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 17,
+            "module_options": [
+              {
+                "id": "12",
+                "course_id": "120"
+              },
+              {
+                "id": "444",
+                "course_id": "359"
+              },
+              {
+                "id": "13",
+                "course_id": "126"
+              },
+              {
+                "id": "65",
+                "course_id": "122"
+              },
+              {
+                "id": "14",
+                "course_id": "102"
+              },
+              {
+                "id": "197",
+                "course_id": "130"
+              },
+              {
+                "id": "195",
+                "course_id": "256"
+              },
+              {
+                "id": "15",
+                "course_id": "121"
+              },
+              {
+                "id": "193",
+                "course_id": "260"
+              },
+              {
+                "id": "196",
+                "course_id": "133"
+              },
+              {
+                "id": "66",
+                "course_id": "125"
+              },
+              {
+                "id": "477",
+                "course_id": "116"
+              },
+              {
+                "id": "11",
+                "course_id": "101"
+              },
+              {
+                "id": "476",
+                "course_id": "119"
+              },
+              {
+                "id": "192",
+                "course_id": "263"
+              },
+              {
+                "id": "194",
+                "course_id": "222"
+              },
+              {
+                "id": "191",
+                "course_id": "257"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "174",
+        "programme_level_id": "141",
+        "credit_required": 15,
+        "module_groups": null
+      },
+      {
+        "id": "173",
+        "programme_level_id": "140",
+        "credit_required": 15,
+        "module_groups": null
+      },
+      {
+        "id": "172",
+        "programme_level_id": "139",
+        "credit_required": 29,
+        "module_groups": [
+          {
+            "id": "36",
+            "group_name": "First Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 6,
+            "module_options": [
+              {
+                "id": "309",
+                "course_id": "277"
+              },
+              {
+                "id": "310",
+                "course_id": "313"
+              },
+              {
+                "id": "307",
+                "course_id": "311"
+              },
+              {
+                "id": "308",
+                "course_id": "312"
+              },
+              {
+                "id": "306",
+                "course_id": "236"
+              },
+              {
+                "id": "311",
+                "course_id": "314"
+              }
+            ]
+          },
+          {
+            "id": "37",
+            "group_name": "Second Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 6,
+            "module_options": [
+              {
+                "id": "313",
+                "course_id": "315"
+              },
+              {
+                "id": "315",
+                "course_id": "318"
+              },
+              {
+                "id": "314",
+                "course_id": "316"
+              },
+              {
+                "id": "316",
+                "course_id": "319"
+              },
+              {
+                "id": "312",
+                "course_id": "237"
+              },
+              {
+                "id": "317",
+                "course_id": "321"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "180",
+    "name": "Data Science Courses",
+    "programme_id": "142",
+    "bundle_levels": [
+      {
+        "id": "182",
+        "programme_level_id": "144",
+        "credit_required": 34,
+        "module_groups": [
+          {
+            "id": "30",
+            "group_name": "First Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 9,
+            "module_options": [
+              {
+                "id": "264",
+                "course_id": "288"
+              },
+              {
+                "id": "265",
+                "course_id": "291"
+              },
+              {
+                "id": "263",
+                "course_id": "287"
+              },
+              {
+                "id": "262",
+                "course_id": "236"
+              },
+              {
+                "id": "446",
+                "course_id": "344"
+              },
+              {
+                "id": "268",
+                "course_id": "294"
+              },
+              {
+                "id": "267",
+                "course_id": "292"
+              },
+              {
+                "id": "266",
+                "course_id": "267"
+              },
+              {
+                "id": "269",
+                "course_id": "296"
+              }
+            ]
+          },
+          {
+            "id": "31",
+            "group_name": "Second Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 7,
+            "module_options": [
+              {
+                "id": "541",
+                "course_id": "451"
+              },
+              {
+                "id": "271",
+                "course_id": "284"
+              },
+              {
+                "id": "275",
+                "course_id": "302"
+              },
+              {
+                "id": "273",
+                "course_id": "276"
+              },
+              {
+                "id": "274",
+                "course_id": "300"
+              },
+              {
+                "id": "272",
+                "course_id": "281"
+              },
+              {
+                "id": "270",
+                "course_id": "237"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "181",
+        "programme_level_id": "143",
+        "credit_required": 17,
+        "module_groups": [
+          {
+            "id": "18",
+            "group_name": "Elective Group",
+            "group_type": "bundle.group.type.elective",
+            "number_of_courses": 2,
+            "module_options": [
+              {
+                "id": "77",
+                "course_id": "119"
+              },
+              {
+                "id": "76",
+                "course_id": "116"
+              }
+            ]
+          },
+          {
+            "id": "7",
+            "group_name": "Core Group",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 18,
+            "module_options": [
+              {
+                "id": "25",
+                "course_id": "118"
+              },
+              {
+                "id": "75",
+                "course_id": "121"
+              },
+              {
+                "id": "24",
+                "course_id": "114"
+              },
+              {
+                "id": "506",
+                "course_id": "368"
+              },
+              {
+                "id": "23",
+                "course_id": "131"
+              },
+              {
+                "id": "211",
+                "course_id": "256"
+              },
+              {
+                "id": "26",
+                "course_id": "120"
+              },
+              {
+                "id": "27",
+                "course_id": "117"
+              },
+              {
+                "id": "209",
+                "course_id": "258"
+              },
+              {
+                "id": "210",
+                "course_id": "222"
+              },
+              {
+                "id": "207",
+                "course_id": "231"
+              },
+              {
+                "id": "517",
+                "course_id": "367"
+              },
+              {
+                "id": "205",
+                "course_id": "254"
+              },
+              {
+                "id": "208",
+                "course_id": "232"
+              },
+              {
+                "id": "231",
+                "course_id": "264"
+              },
+              {
+                "id": "22",
+                "course_id": "102"
+              },
+              {
+                "id": "442",
+                "course_id": "366"
+              },
+              {
+                "id": "206",
+                "course_id": "255"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "183",
+        "programme_level_id": "145",
+        "credit_required": 15,
+        "module_groups": null
+      },
+      {
+        "id": "184",
+        "programme_level_id": "146",
+        "credit_required": 15,
+        "module_groups": null
+      }
+    ]
+  },
+  {
+    "id": "195",
+    "name": "Public Policy and Administration Courses",
+    "programme_id": "150",
+    "bundle_levels": [
+      {
+        "id": "197",
+        "programme_level_id": "152",
+        "credit_required": 30,
+        "module_groups": [
+          {
+            "id": "32",
+            "group_name": "First Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 6,
+            "module_options": [
+              {
+                "id": "282",
+                "course_id": "275"
+              },
+              {
+                "id": "281",
+                "course_id": "272"
+              },
+              {
+                "id": "278",
+                "course_id": "265"
+              },
+              {
+                "id": "280",
+                "course_id": "268"
+              },
+              {
+                "id": "424",
+                "course_id": "236"
+              },
+              {
+                "id": "279",
+                "course_id": "266"
+              }
+            ]
+          },
+          {
+            "id": "33",
+            "group_name": "Second Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 7,
+            "module_options": [
+              {
+                "id": "364",
+                "course_id": "348"
+              },
+              {
+                "id": "285",
+                "course_id": "279"
+              },
+              {
+                "id": "284",
+                "course_id": "237"
+              },
+              {
+                "id": "288",
+                "course_id": "283"
+              },
+              {
+                "id": "289",
+                "course_id": "285"
+              },
+              {
+                "id": "287",
+                "course_id": "282"
+              },
+              {
+                "id": "290",
+                "course_id": "280"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "198",
+        "programme_level_id": "153",
+        "credit_required": 15,
+        "module_groups": null
+      },
+      {
+        "id": "199",
+        "programme_level_id": "154",
+        "credit_required": 15,
+        "module_groups": null
+      },
+      {
+        "id": "196",
+        "programme_level_id": "151",
+        "credit_required": 20,
+        "module_groups": [
+          {
+            "id": "12",
+            "group_name": "Core Group",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 20,
+            "module_options": [
+              {
+                "id": "90",
+                "course_id": "134"
+              },
+              {
+                "id": "469",
+                "course_id": "420"
+              },
+              {
+                "id": "61",
+                "course_id": "129"
+              },
+              {
+                "id": "51",
+                "course_id": "120"
+              },
+              {
+                "id": "175",
+                "course_id": "130"
+              },
+              {
+                "id": "85",
+                "course_id": "125"
+              },
+              {
+                "id": "470",
+                "course_id": "127"
+              },
+              {
+                "id": "468",
+                "course_id": "419"
+              },
+              {
+                "id": "174",
+                "course_id": "123"
+              },
+              {
+                "id": "48",
+                "course_id": "102"
+              },
+              {
+                "id": "171",
+                "course_id": "122"
+              },
+              {
+                "id": "173",
+                "course_id": "256"
+              },
+              {
+                "id": "49",
+                "course_id": "121"
+              },
+              {
+                "id": "50",
+                "course_id": "132"
+              },
+              {
+                "id": "176",
+                "course_id": "133"
+              },
+              {
+                "id": "472",
+                "course_id": "257"
+              },
+              {
+                "id": "475",
+                "course_id": "359"
+              },
+              {
+                "id": "489",
+                "course_id": "262"
+              },
+              {
+                "id": "172",
+                "course_id": "222"
+              },
+              {
+                "id": "471",
+                "course_id": "101"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "185",
+    "name": "Cybersecurity",
+    "programme_id": "155",
+    "bundle_levels": [
+      {
+        "id": "188",
+        "programme_level_id": "158",
+        "credit_required": 15,
+        "module_groups": null
+      },
+      {
+        "id": "189",
+        "programme_level_id": "159",
+        "credit_required": 15,
+        "module_groups": null
+      },
+      {
+        "id": "187",
+        "programme_level_id": "157",
+        "credit_required": 15,
+        "module_groups": [
+          {
+            "id": "28",
+            "group_name": "First Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 9,
+            "module_options": [
+              {
+                "id": "528",
+                "course_id": "269"
+              },
+              {
+                "id": "250",
+                "course_id": "267"
+              },
+              {
+                "id": "277",
+                "course_id": "343"
+              },
+              {
+                "id": "252",
+                "course_id": "270"
+              },
+              {
+                "id": "249",
+                "course_id": "236"
+              },
+              {
+                "id": "253",
+                "course_id": "271"
+              },
+              {
+                "id": "254",
+                "course_id": "273"
+              },
+              {
+                "id": "255",
+                "course_id": "274"
+              },
+              {
+                "id": "483",
+                "course_id": "287"
+              }
+            ]
+          },
+          {
+            "id": "29",
+            "group_name": "Second Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 6,
+            "module_options": [
+              {
+                "id": "258",
+                "course_id": "237"
+              },
+              {
+                "id": "259",
+                "course_id": "281"
+              },
+              {
+                "id": "257",
+                "course_id": "278"
+              },
+              {
+                "id": "261",
+                "course_id": "286"
+              },
+              {
+                "id": "256",
+                "course_id": "276"
+              },
+              {
+                "id": "260",
+                "course_id": "284"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "186",
+        "programme_level_id": "156",
+        "credit_required": 17,
+        "module_groups": [
+          {
+            "id": "10",
+            "group_name": "Core Group",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 18,
+            "module_options": [
+              {
+                "id": "199",
+                "course_id": "255"
+              },
+              {
+                "id": "515",
+                "course_id": "367"
+              },
+              {
+                "id": "202",
+                "course_id": "258"
+              },
+              {
+                "id": "200",
+                "course_id": "231"
+              },
+              {
+                "id": "508",
+                "course_id": "368"
+              },
+              {
+                "id": "204",
+                "course_id": "256"
+              },
+              {
+                "id": "37",
+                "course_id": "114"
+              },
+              {
+                "id": "203",
+                "course_id": "222"
+              },
+              {
+                "id": "38",
+                "course_id": "118"
+              },
+              {
+                "id": "40",
+                "course_id": "117"
+              },
+              {
+                "id": "480",
+                "course_id": "366"
+              },
+              {
+                "id": "201",
+                "course_id": "232"
+              },
+              {
+                "id": "35",
+                "course_id": "102"
+              },
+              {
+                "id": "39",
+                "course_id": "120"
+              },
+              {
+                "id": "72",
+                "course_id": "121"
+              },
+              {
+                "id": "36",
+                "course_id": "131"
+              },
+              {
+                "id": "230",
+                "course_id": "264"
+              },
+              {
+                "id": "198",
+                "course_id": "254"
+              }
+            ]
+          },
+          {
+            "id": "61",
+            "group_name": "Elective Courses",
+            "group_type": "bundle.group.type.elective",
+            "number_of_courses": 2,
+            "module_options": [
+              {
+                "id": "502",
+                "course_id": "119"
+              },
+              {
+                "id": "503",
+                "course_id": "116"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "200",
+    "name": "Accounting Courses",
+    "programme_id": "160",
+    "bundle_levels": [
+      {
+        "id": "203",
+        "programme_level_id": "163",
+        "credit_required": 15,
+        "module_groups": null
+      },
+      {
+        "id": "204",
+        "programme_level_id": "164",
+        "credit_required": 15,
+        "module_groups": null
+      },
+      {
+        "id": "201",
+        "programme_level_id": "161",
+        "credit_required": 22,
+        "module_groups": [
+          {
+            "id": "25",
+            "group_name": "Elective",
+            "group_type": "bundle.group.type.elective",
+            "number_of_courses": 2,
+            "module_options": [
+              {
+                "id": "170",
+                "course_id": "127"
+              },
+              {
+                "id": "169",
+                "course_id": "123"
+              }
+            ]
+          },
+          {
+            "id": "14",
+            "group_name": "Core Group",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 18,
+            "module_options": [
+              {
+                "id": "58",
+                "course_id": "126"
+              },
+              {
+                "id": "500",
+                "course_id": "115"
+              },
+              {
+                "id": "164",
+                "course_id": "257"
+              },
+              {
+                "id": "465",
+                "course_id": "125"
+              },
+              {
+                "id": "63",
+                "course_id": "131"
+              },
+              {
+                "id": "62",
+                "course_id": "122"
+              },
+              {
+                "id": "166",
+                "course_id": "130"
+              },
+              {
+                "id": "464",
+                "course_id": "359"
+              },
+              {
+                "id": "466",
+                "course_id": "260"
+              },
+              {
+                "id": "165",
+                "course_id": "262"
+              },
+              {
+                "id": "168",
+                "course_id": "256"
+              },
+              {
+                "id": "57",
+                "course_id": "133"
+              },
+              {
+                "id": "55",
+                "course_id": "121"
+              },
+              {
+                "id": "167",
+                "course_id": "222"
+              },
+              {
+                "id": "60",
+                "course_id": "120"
+              },
+              {
+                "id": "501",
+                "course_id": "101"
+              },
+              {
+                "id": "56",
+                "course_id": "102"
+              },
+              {
+                "id": "226",
+                "course_id": "263"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "202",
+        "programme_level_id": "162",
+        "credit_required": 31,
+        "module_groups": [
+          {
+            "id": "38",
+            "group_name": "First Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 6,
+            "module_options": [
+              {
+                "id": "321",
+                "course_id": "324"
+              },
+              {
+                "id": "320",
+                "course_id": "322"
+              },
+              {
+                "id": "318",
+                "course_id": "236"
+              },
+              {
+                "id": "322",
+                "course_id": "325"
+              },
+              {
+                "id": "319",
+                "course_id": "303"
+              },
+              {
+                "id": "323",
+                "course_id": "326"
+              }
+            ]
+          },
+          {
+            "id": "39",
+            "group_name": "Second Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 7,
+            "module_options": [
+              {
+                "id": "467",
+                "course_id": "333"
+              },
+              {
+                "id": "326",
+                "course_id": "328"
+              },
+              {
+                "id": "325",
+                "course_id": "327"
+              },
+              {
+                "id": "324",
+                "course_id": "237"
+              },
+              {
+                "id": "328",
+                "course_id": "330"
+              },
+              {
+                "id": "329",
+                "course_id": "331"
+              },
+              {
+                "id": "327",
+                "course_id": "329"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "175",
+    "name": "Computer Science Courses",
+    "programme_id": "165",
+    "bundle_levels": [
+      {
+        "id": "179",
+        "programme_level_id": "169",
+        "credit_required": 15,
+        "module_groups": null
+      },
+      {
+        "id": "177",
+        "programme_level_id": "167",
+        "credit_required": 32,
+        "module_groups": [
+          {
+            "id": "44",
+            "group_name": "First Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 7,
+            "module_options": [
+              {
+                "id": "349",
+                "course_id": "287"
+              },
+              {
+                "id": "354",
+                "course_id": "271"
+              },
+              {
+                "id": "353",
+                "course_id": "236"
+              },
+              {
+                "id": "352",
+                "course_id": "346"
+              },
+              {
+                "id": "499",
+                "course_id": "304"
+              },
+              {
+                "id": "351",
+                "course_id": "269"
+              },
+              {
+                "id": "350",
+                "course_id": "267"
+              }
+            ]
+          },
+          {
+            "id": "45",
+            "group_name": "Second Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 7,
+            "module_options": [
+              {
+                "id": "498",
+                "course_id": "424"
+              },
+              {
+                "id": "357",
+                "course_id": "310"
+              },
+              {
+                "id": "358",
+                "course_id": "281"
+              },
+              {
+                "id": "360",
+                "course_id": "284"
+              },
+              {
+                "id": "356",
+                "course_id": "276"
+              },
+              {
+                "id": "355",
+                "course_id": "237"
+              },
+              {
+                "id": "361",
+                "course_id": "323"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "178",
+        "programme_level_id": "168",
+        "credit_required": 15,
+        "module_groups": null
+      },
+      {
+        "id": "176",
+        "programme_level_id": "166",
+        "credit_required": 17,
+        "module_groups": [
+          {
+            "id": "16",
+            "group_name": "Elective Group",
+            "group_type": "bundle.group.type.elective",
+            "number_of_courses": 2,
+            "module_options": [
+              {
+                "id": "70",
+                "course_id": "116"
+              },
+              {
+                "id": "71",
+                "course_id": "119"
+              }
+            ]
+          },
+          {
+            "id": "6",
+            "group_name": "Core Group",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 18,
+            "module_options": [
+              {
+                "id": "179",
+                "course_id": "254"
+              },
+              {
+                "id": "21",
+                "course_id": "117"
+              },
+              {
+                "id": "18",
+                "course_id": "114"
+              },
+              {
+                "id": "69",
+                "course_id": "121"
+              },
+              {
+                "id": "180",
+                "course_id": "231"
+              },
+              {
+                "id": "504",
+                "course_id": "367"
+              },
+              {
+                "id": "19",
+                "course_id": "118"
+              },
+              {
+                "id": "20",
+                "course_id": "120"
+              },
+              {
+                "id": "182",
+                "course_id": "232"
+              },
+              {
+                "id": "505",
+                "course_id": "368"
+              },
+              {
+                "id": "185",
+                "course_id": "256"
+              },
+              {
+                "id": "184",
+                "course_id": "222"
+              },
+              {
+                "id": "16",
+                "course_id": "102"
+              },
+              {
+                "id": "181",
+                "course_id": "255"
+              },
+              {
+                "id": "17",
+                "course_id": "131"
+              },
+              {
+                "id": "183",
+                "course_id": "258"
+              },
+              {
+                "id": "229",
+                "course_id": "264"
+              },
+              {
+                "id": "497",
+                "course_id": "366"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "212",
+    "name": "Nursing Science courses",
+    "programme_id": "205",
+    "bundle_levels": [
+      {
+        "id": "216",
+        "programme_level_id": "209",
+        "credit_required": 27,
+        "module_groups": null
+      },
+      {
+        "id": "215",
+        "programme_level_id": "208",
+        "credit_required": 35,
+        "module_groups": [
+          {
+            "id": "67",
+            "group_name": "First Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 9,
+            "module_options": [
+              {
+                "id": "531",
+                "course_id": "443"
+              },
+              {
+                "id": "535",
+                "course_id": "447"
+              },
+              {
+                "id": "533",
+                "course_id": "445"
+              },
+              {
+                "id": "538",
+                "course_id": "450"
+              },
+              {
+                "id": "536",
+                "course_id": "448"
+              },
+              {
+                "id": "532",
+                "course_id": "444"
+              },
+              {
+                "id": "530",
+                "course_id": "442"
+              },
+              {
+                "id": "534",
+                "course_id": "446"
+              },
+              {
+                "id": "537",
+                "course_id": "449"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "214",
+        "programme_level_id": "207",
+        "credit_required": 28,
+        "module_groups": [
+          {
+            "id": "68",
+            "group_name": "Elective Courses",
+            "group_type": "bundle.group.type.elective",
+            "number_of_courses": 2,
+            "module_options": [
+              {
+                "id": "539",
+                "course_id": "337"
+              },
+              {
+                "id": "540",
+                "course_id": "336"
+              }
+            ]
+          },
+          {
+            "id": "22",
+            "group_name": "First Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 9,
+            "module_options": [
+              {
+                "id": "99",
+                "course_id": "242"
+              },
+              {
+                "id": "96",
+                "course_id": "238"
+              },
+              {
+                "id": "98",
+                "course_id": "235"
+              },
+              {
+                "id": "93",
+                "course_id": "236"
+              },
+              {
+                "id": "95",
+                "course_id": "233"
+              },
+              {
+                "id": "496",
+                "course_id": "368"
+              },
+              {
+                "id": "97",
+                "course_id": "239"
+              },
+              {
+                "id": "100",
+                "course_id": "246"
+              },
+              {
+                "id": "94",
+                "course_id": "234"
+              }
+            ]
+          },
+          {
+            "id": "57",
+            "group_name": "Second Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 7,
+            "module_options": [
+              {
+                "id": "440",
+                "course_id": "237"
+              },
+              {
+                "id": "437",
+                "course_id": "241"
+              },
+              {
+                "id": "434",
+                "course_id": "244"
+              },
+              {
+                "id": "441",
+                "course_id": "222"
+              },
+              {
+                "id": "433",
+                "course_id": "243"
+              },
+              {
+                "id": "435",
+                "course_id": "245"
+              },
+              {
+                "id": "436",
+                "course_id": "240"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "253",
+        "programme_level_id": "252",
+        "credit_required": 28,
+        "module_groups": null
+      },
+      {
+        "id": "213",
+        "programme_level_id": "206",
+        "credit_required": 27,
+        "module_groups": [
+          {
+            "id": "23",
+            "group_name": "Core",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 16,
+            "module_options": [
+              {
+                "id": "153",
+                "course_id": "232"
+              },
+              {
+                "id": "146",
+                "course_id": "114"
+              },
+              {
+                "id": "142",
+                "course_id": "228"
+              },
+              {
+                "id": "150",
+                "course_id": "225"
+              },
+              {
+                "id": "144",
+                "course_id": "131"
+              },
+              {
+                "id": "152",
+                "course_id": "226"
+              },
+              {
+                "id": "139",
+                "course_id": "102"
+              },
+              {
+                "id": "143",
+                "course_id": "229"
+              },
+              {
+                "id": "149",
+                "course_id": "231"
+              },
+              {
+                "id": "154",
+                "course_id": "227"
+              },
+              {
+                "id": "147",
+                "course_id": "118"
+              },
+              {
+                "id": "140",
+                "course_id": "223"
+              },
+              {
+                "id": "151",
+                "course_id": "230"
+              },
+              {
+                "id": "145",
+                "course_id": "120"
+              },
+              {
+                "id": "141",
+                "course_id": "224"
+              },
+              {
+                "id": "148",
+                "course_id": "222"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "247",
+    "name": "Public Health",
+    "programme_id": "217",
+    "bundle_levels": [
+      {
+        "id": "249",
+        "programme_level_id": "219",
+        "credit_required": 16,
+        "module_groups": [
+          {
+            "id": "27",
+            "group_name": "Core Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 17,
+            "module_options": [
+              {
+                "id": "239",
+                "course_id": "336"
+              },
+              {
+                "id": "242",
+                "course_id": "237"
+              },
+              {
+                "id": "241",
+                "course_id": "334"
+              },
+              {
+                "id": "243",
+                "course_id": "339"
+              },
+              {
+                "id": "233",
+                "course_id": "236"
+              },
+              {
+                "id": "235",
+                "course_id": "234"
+              },
+              {
+                "id": "245",
+                "course_id": "341"
+              },
+              {
+                "id": "236",
+                "course_id": "238"
+              },
+              {
+                "id": "240",
+                "course_id": "335"
+              },
+              {
+                "id": "511",
+                "course_id": "242"
+              },
+              {
+                "id": "247",
+                "course_id": "245"
+              },
+              {
+                "id": "248",
+                "course_id": "243"
+              },
+              {
+                "id": "244",
+                "course_id": "340"
+              },
+              {
+                "id": "237",
+                "course_id": "233"
+              },
+              {
+                "id": "238",
+                "course_id": "337"
+              },
+              {
+                "id": "246",
+                "course_id": "342"
+              },
+              {
+                "id": "234",
+                "course_id": "338"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "248",
+        "programme_level_id": "218",
+        "credit_required": 24,
+        "module_groups": [
+          {
+            "id": "56",
+            "group_name": "Second Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 9,
+            "module_options": [
+              {
+                "id": "432",
+                "course_id": "232"
+              },
+              {
+                "id": "430",
+                "course_id": "230"
+              },
+              {
+                "id": "428",
+                "course_id": "226"
+              },
+              {
+                "id": "426",
+                "course_id": "222"
+              },
+              {
+                "id": "438",
+                "course_id": "417"
+              },
+              {
+                "id": "427",
+                "course_id": "225"
+              },
+              {
+                "id": "439",
+                "course_id": "418"
+              },
+              {
+                "id": "431",
+                "course_id": "231"
+              },
+              {
+                "id": "429",
+                "course_id": "227"
+              }
+            ]
+          },
+          {
+            "id": "24",
+            "group_name": "First Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 12,
+            "module_options": [
+              {
+                "id": "157",
+                "course_id": "224"
+              },
+              {
+                "id": "495",
+                "course_id": "119"
+              },
+              {
+                "id": "158",
+                "course_id": "228"
+              },
+              {
+                "id": "162",
+                "course_id": "114"
+              },
+              {
+                "id": "159",
+                "course_id": "229"
+              },
+              {
+                "id": "163",
+                "course_id": "118"
+              },
+              {
+                "id": "494",
+                "course_id": "121"
+              },
+              {
+                "id": "155",
+                "course_id": "102"
+              },
+              {
+                "id": "161",
+                "course_id": "120"
+              },
+              {
+                "id": "156",
+                "course_id": "223"
+              },
+              {
+                "id": "160",
+                "course_id": "131"
+              },
+              {
+                "id": "510",
+                "course_id": "368"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "251",
+        "programme_level_id": "221",
+        "credit_required": 24,
+        "module_groups": null
+      },
+      {
+        "id": "250",
+        "programme_level_id": "220",
+        "credit_required": 24,
+        "module_groups": null
+      }
+    ]
+  },
+  {
+    "id": "370",
+    "name": "Entrepreneurship Courses",
+    "programme_id": "349",
+    "bundle_levels": [
+      {
+        "id": "373",
+        "programme_level_id": "352",
+        "credit_required": 20,
+        "module_groups": null
+      },
+      {
+        "id": "371",
+        "programme_level_id": "350",
+        "credit_required": 35,
+        "module_groups": [
+          {
+            "id": "46",
+            "group_name": "First Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 8,
+            "module_options": [
+              {
+                "id": "365",
+                "course_id": "102"
+              },
+              {
+                "id": "369",
+                "course_id": "360"
+              },
+              {
+                "id": "366",
+                "course_id": "122"
+              },
+              {
+                "id": "368",
+                "course_id": "101"
+              },
+              {
+                "id": "367",
+                "course_id": "359"
+              },
+              {
+                "id": "371",
+                "course_id": "121"
+              },
+              {
+                "id": "370",
+                "course_id": "361"
+              },
+              {
+                "id": "379",
+                "course_id": "128"
+              }
+            ]
+          },
+          {
+            "id": "47",
+            "group_name": "Second Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 8,
+            "module_options": [
+              {
+                "id": "378",
+                "course_id": "256"
+              },
+              {
+                "id": "394",
+                "course_id": "125"
+              },
+              {
+                "id": "373",
+                "course_id": "130"
+              },
+              {
+                "id": "374",
+                "course_id": "362"
+              },
+              {
+                "id": "375",
+                "course_id": "363"
+              },
+              {
+                "id": "377",
+                "course_id": "365"
+              },
+              {
+                "id": "376",
+                "course_id": "364"
+              },
+              {
+                "id": "372",
+                "course_id": "222"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "372",
+        "programme_level_id": "351",
+        "credit_required": 20,
+        "module_groups": [
+          {
+            "id": "73",
+            "group_name": "First Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 7,
+            "module_options": [
+              {
+                "id": "559",
+                "course_id": "473"
+              },
+              {
+                "id": "561",
+                "course_id": "475"
+              },
+              {
+                "id": "560",
+                "course_id": "474"
+              },
+              {
+                "id": "557",
+                "course_id": "236"
+              },
+              {
+                "id": "562",
+                "course_id": "476"
+              },
+              {
+                "id": "563",
+                "course_id": "477"
+              },
+              {
+                "id": "558",
+                "course_id": "472"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "374",
+        "programme_level_id": "353",
+        "credit_required": 20,
+        "module_groups": null
+      }
+    ]
+  },
+  {
+    "id": "375",
+    "name": "Information Technology Courses",
+    "programme_id": "354",
+    "bundle_levels": [
+      {
+        "id": "376",
+        "programme_level_id": "355",
+        "credit_required": 30,
+        "module_groups": [
+          {
+            "id": "48",
+            "group_name": "First Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 7,
+            "module_options": [
+              {
+                "id": "381",
+                "course_id": "131"
+              },
+              {
+                "id": "383",
+                "course_id": "118"
+              },
+              {
+                "id": "380",
+                "course_id": "102"
+              },
+              {
+                "id": "384",
+                "course_id": "366"
+              },
+              {
+                "id": "382",
+                "course_id": "114"
+              },
+              {
+                "id": "386",
+                "course_id": "121"
+              },
+              {
+                "id": "385",
+                "course_id": "368"
+              }
+            ]
+          },
+          {
+            "id": "49",
+            "group_name": "Second Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 7,
+            "module_options": [
+              {
+                "id": "392",
+                "course_id": "256"
+              },
+              {
+                "id": "390",
+                "course_id": "231"
+              },
+              {
+                "id": "388",
+                "course_id": "222"
+              },
+              {
+                "id": "391",
+                "course_id": "232"
+              },
+              {
+                "id": "387",
+                "course_id": "367"
+              },
+              {
+                "id": "389",
+                "course_id": "258"
+              },
+              {
+                "id": "529",
+                "course_id": "441"
+              }
+            ]
+          },
+          {
+            "id": "59",
+            "group_name": "First Semester Courses",
+            "group_type": "bundle.group.type.elective",
+            "number_of_courses": 2,
+            "module_options": [
+              {
+                "id": "449",
+                "course_id": "116"
+              },
+              {
+                "id": "450",
+                "course_id": "119"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "379",
+        "programme_level_id": "358",
+        "credit_required": 20,
+        "module_groups": null
+      },
+      {
+        "id": "378",
+        "programme_level_id": "357",
+        "credit_required": 20,
+        "module_groups": null
+      },
+      {
+        "id": "377",
+        "programme_level_id": "356",
+        "credit_required": 20,
+        "module_groups": [
+          {
+            "id": "72",
+            "group_name": "First Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 6,
+            "module_options": [
+              {
+                "id": "555",
+                "course_id": "304"
+              },
+              {
+                "id": "556",
+                "course_id": "471"
+              },
+              {
+                "id": "551",
+                "course_id": "236"
+              },
+              {
+                "id": "554",
+                "course_id": "470"
+              },
+              {
+                "id": "553",
+                "course_id": "369"
+              },
+              {
+                "id": "552",
+                "course_id": "267"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "396",
+    "name": "Criminology and Security Studies Courses",
+    "programme_id": "380",
+    "bundle_levels": [
+      {
+        "id": "400",
+        "programme_level_id": "384",
+        "credit_required": 20,
+        "module_groups": null
+      },
+      {
+        "id": "399",
+        "programme_level_id": "383",
+        "credit_required": 20,
+        "module_groups": null
+      },
+      {
+        "id": "398",
+        "programme_level_id": "382",
+        "credit_required": 20,
+        "module_groups": [
+          {
+            "id": "74",
+            "group_name": "First Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 7,
+            "module_options": [
+              {
+                "id": "569",
+                "course_id": "482"
+              },
+              {
+                "id": "566",
+                "course_id": "479"
+              },
+              {
+                "id": "567",
+                "course_id": "480"
+              },
+              {
+                "id": "570",
+                "course_id": "483"
+              },
+              {
+                "id": "565",
+                "course_id": "478"
+              },
+              {
+                "id": "568",
+                "course_id": "481"
+              },
+              {
+                "id": "564",
+                "course_id": "236"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "397",
+        "programme_level_id": "381",
+        "credit_required": 36,
+        "module_groups": [
+          {
+            "id": "50",
+            "group_name": "First Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 8,
+            "module_options": [
+              {
+                "id": "397",
+                "course_id": "386"
+              },
+              {
+                "id": "491",
+                "course_id": "123"
+              },
+              {
+                "id": "544",
+                "course_id": "388"
+              },
+              {
+                "id": "395",
+                "course_id": "102"
+              },
+              {
+                "id": "490",
+                "course_id": "132"
+              },
+              {
+                "id": "396",
+                "course_id": "385"
+              },
+              {
+                "id": "400",
+                "course_id": "127"
+              },
+              {
+                "id": "543",
+                "course_id": "387"
+              }
+            ]
+          },
+          {
+            "id": "52",
+            "group_name": "Second Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 7,
+            "module_options": [
+              {
+                "id": "409",
+                "course_id": "256"
+              },
+              {
+                "id": "404",
+                "course_id": "389"
+              },
+              {
+                "id": "406",
+                "course_id": "391"
+              },
+              {
+                "id": "407",
+                "course_id": "392"
+              },
+              {
+                "id": "403",
+                "course_id": "222"
+              },
+              {
+                "id": "408",
+                "course_id": "393"
+              },
+              {
+                "id": "405",
+                "course_id": "390"
+              }
+            ]
+          },
+          {
+            "id": "53",
+            "group_name": "Second Semester Courses",
+            "group_type": "bundle.group.type.elective",
+            "number_of_courses": 2,
+            "module_options": [
+              {
+                "id": "410",
+                "course_id": "394"
+              },
+              {
+                "id": "411",
+                "course_id": "395"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "415",
+    "name": "Master of Business Administration",
+    "programme_id": "413",
+    "bundle_levels": [
+      {
+        "id": "416",
+        "programme_level_id": "414",
+        "credit_required": 18,
+        "module_groups": [
+          {
+            "id": "55",
+            "group_name": "First Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 6,
+            "module_options": [
+              {
+                "id": "418",
+                "course_id": "405"
+              },
+              {
+                "id": "419",
+                "course_id": "407"
+              },
+              {
+                "id": "420",
+                "course_id": "404"
+              },
+              {
+                "id": "422",
+                "course_id": "408"
+              },
+              {
+                "id": "423",
+                "course_id": "409"
+              },
+              {
+                "id": "421",
+                "course_id": "406"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "430",
+    "name": "Mass Communication and Media Studies Courses",
+    "programme_id": "425",
+    "bundle_levels": [
+      {
+        "id": "432",
+        "programme_level_id": "427",
+        "credit_required": 17,
+        "module_groups": null
+      },
+      {
+        "id": "434",
+        "programme_level_id": "429",
+        "credit_required": 17,
+        "module_groups": [
+          {
+            "id": "63",
+            "group_name": "First Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 2,
+            "module_options": [
+              {
+                "id": "519",
+                "course_id": "121"
+              },
+              {
+                "id": "518",
+                "course_id": "102"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "433",
+        "programme_level_id": "428",
+        "credit_required": 17,
+        "module_groups": null
+      },
+      {
+        "id": "431",
+        "programme_level_id": "426",
+        "credit_required": 17,
+        "module_groups": [
+          {
+            "id": "64",
+            "group_name": "First Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 8,
+            "module_options": [
+              {
+                "id": "527",
+                "course_id": "121"
+              },
+              {
+                "id": "520",
+                "course_id": "102"
+              },
+              {
+                "id": "522",
+                "course_id": "436"
+              },
+              {
+                "id": "523",
+                "course_id": "437"
+              },
+              {
+                "id": "521",
+                "course_id": "435"
+              },
+              {
+                "id": "526",
+                "course_id": "440"
+              },
+              {
+                "id": "524",
+                "course_id": "438"
+              },
+              {
+                "id": "525",
+                "course_id": "439"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "457",
+    "name": "test",
+    "programme_id": "454",
+    "bundle_levels": [
+      {
+        "id": "459",
+        "programme_level_id": "456",
+        "credit_required": 2,
+        "module_groups": null
+      },
+      {
+        "id": "458",
+        "programme_level_id": "455",
+        "credit_required": 2,
+        "module_groups": [
+          {
+            "id": "69",
+            "group_name": "first semester",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 1,
+            "module_options": [
+              {
+                "id": "542",
+                "course_id": "101"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "468",
+    "name": "Master of Public Administration",
+    "programme_id": "460",
+    "bundle_levels": [
+      {
+        "id": "469",
+        "programme_level_id": "461",
+        "credit_required": 35,
+        "module_groups": [
+          {
+            "id": "71",
+            "group_name": "First Semester Courses",
+            "group_type": "bundle.group.type.core",
+            "number_of_courses": 6,
+            "module_options": [
+              {
+                "id": "549",
+                "course_id": "466"
+              },
+              {
+                "id": "548",
+                "course_id": "465"
+              },
+              {
+                "id": "546",
+                "course_id": "463"
+              },
+              {
+                "id": "547",
+                "course_id": "464"
+              },
+              {
+                "id": "550",
+                "course_id": "467"
+              },
+              {
+                "id": "545",
+                "course_id": "462"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
