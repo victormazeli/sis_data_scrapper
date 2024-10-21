@@ -3,7 +3,7 @@ package transformdata
 import "strconv"
 
 type MetaData struct {
-	AuditFunction interface{} `json:"auditFunction"` // Keeping as empty interface
+	AuditFunction interface{} `json:"auditFunction"`
 	CreateID      string      `json:"createId"`
 	CreateTime    string      `json:"createTime"`
 	UpdateID      string      `json:"updateId"`
@@ -21,8 +21,8 @@ type Representation struct {
 	Locale     string `json:"locale"`
 	LongDescr  string `json:"longDescr"`
 	LongName   string `json:"longName"`
-	ShortDescr string `json:"shortDescr"` // Nullable
-	ShortName  string `json:"shortName"`  // Nullable
+	ShortDescr string `json:"shortDescr"` 
+	ShortName  string `json:"shortName"` 
 }
 
 func ChangeIntToString(value int) string {
